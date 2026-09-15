@@ -9,6 +9,11 @@ export type CurrentProfile = {
   full_name: string;
   role: UserRole;
   phone: string | null;
+  provinsi: string | null;
+  kabupaten: string | null;
+  kecamatan: string | null;
+  desa: string | null;
+  kode_wilayah: string | null;
 };
 
 /**
@@ -25,7 +30,7 @@ export const getCurrentProfile = cache(async (): Promise<CurrentProfile | null> 
 
   const { data: profile } = await supabase
     .from("profiles")
-    .select("full_name, role, phone")
+    .select("full_name, role, phone, provinsi, kabupaten, kecamatan, desa, kode_wilayah")
     .eq("id", user.id)
     .single();
 

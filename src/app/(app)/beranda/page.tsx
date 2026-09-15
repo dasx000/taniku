@@ -2,45 +2,20 @@ import Link from "next/link";
 import {
   Bell,
   Bug,
-  Calculator,
-  CalendarDays,
   CloudRain,
   CloudSun,
   Droplets,
   FlaskConical,
   Leaf,
-  Map,
   MapPin,
-  Sprout,
-  Stethoscope,
-  Tractor,
-  Wheat,
   Wind,
-  type LucideIcon,
 } from "lucide-react";
 import { getCurrentProfile } from "@/lib/supabase/queries";
 import { ROLE_LABEL, getGreeting, getInitials } from "@/lib/profile";
-
-type Feature = {
-  href: string;
-  label: string;
-  icon: LucideIcon;
-  bg: string;
-  text: string;
-};
-
-const FEATURES: Feature[] = [
-  { href: "/lahan", label: "Lahan Saya", icon: Map, bg: "bg-forest/10", text: "text-forest" },
-  { href: "/tanaman", label: "Tanaman Saya", icon: Wheat, bg: "bg-warning/15", text: "text-warning" },
-  { href: "/kalkulator-benih", label: "Kalkulator Benih", icon: Calculator, bg: "bg-forest/10", text: "text-forest" },
-  { href: "/kalkulator-pupuk", label: "Kalkulator Pupuk", icon: FlaskConical, bg: "bg-leaf/15", text: "text-leaf" },
-  { href: "/cuaca", label: "Cuaca", icon: CloudSun, bg: "bg-weather/15", text: "text-weather" },
-  { href: "/hama", label: "Hama", icon: Bug, bg: "bg-danger/12", text: "text-danger" },
-  { href: "/gulma", label: "Gulma", icon: Sprout, bg: "bg-warning/12", text: "text-warning" },
-  { href: "/penyakit", label: "Penyakit", icon: Stethoscope, bg: "bg-info/12", text: "text-info" },
-  { href: "/aut", label: "AUT", icon: Tractor, bg: "bg-weather/15", text: "text-weather" },
-  { href: "/jadwal-tanam", label: "Jadwal Tanam", icon: CalendarDays, bg: "bg-warning/15", text: "text-warning" },
-];
+import { FeatureGrid } from "@/components/feature-grid";
+import { WeatherIcon } from "@/components/weather-icon";
+import { WeatherStat } from "@/components/weather-stat";
+import { getWeatherByKodeWilayah } from "@/lib/bmkg";
 
 const TIPS = [
   {
@@ -66,27 +41,12 @@ const TIPS = [
   },
 ];
 
-function WeatherStat({
-  icon: Icon,
-  label,
-  value,
-}: {
-  icon: LucideIcon;
-  label: string;
-  value: string;
-}) {
-  return (
-    <div className="flex flex-col items-center gap-1">
-      <Icon className="h-4 w-4 text-weather" strokeWidth={2} />
-      <p className="text-xs font-semibold text-primary">{value}</p>
-      <p className="text-[10px] text-secondary">{label}</p>
-    </div>
-  );
-}
-
 export default async function BerandaPage() {
   const profile = await getCurrentProfile();
   const fullName = profile?.full_name ?? "Pengguna";
+  const weather = profile?.kode_wilayah
+    ? await getWeatherByKodeWilayah(profile.kode_wilayah)
+    : null;
 
   return (
     <div className="flex flex-col gap-6 pt-6">
@@ -116,33 +76,56 @@ export default async function BerandaPage() {
         </Link>
       </header>
 
-      {/* Weather card */}
-      {/* Lokasi masih statis -- nanti diganti nama desa dari data lahan user */}
-      <section className="mx-6 rounded-card bg-weather/12 p-5">
-        <div className="flex items-start justify-between">
-          <div>
-            <p className="text-xs text-secondary">Cuaca Hari Ini</p>
-            <p className="mt-1 font-heading text-base font-bold text-primary">
-              Cerah Berawan
-            </p>
-            <p className="mt-2 flex items-center gap-1 text-xs text-secondary">
-              <MapPin className="h-3.5 w-3.5" strokeWidth={2} />
-              Sukamaju, Jawa Barat
-            </p>
+      {/* Weather card -- data dari API BMKG berdasarkan kode_wilayah di profil */}
+      {weather ? (
+        <Link href="/cuaca" className="mx-6 block rounded-card bg-weather/12 p-5">
+          <div className="flex items-start justify-between">
+            <div>
+              <p className="text-xs text-secondary">Cuaca Hari Ini</p>
+              <p className="mt-1 font-heading text-base font-bold text-primary">
+                {weather.current.deskripsi}
+              </p>
+              <p className="mt-2 flex items-center gap-1 text-xs text-secondary">
+                <MapPin className="h-3.5 w-3.5" strokeWidth={2} />
+                {weather.lokasiText}
+              </p>
+            </div>
+            <div className="flex flex-col items-end">
+              <WeatherIcon deskripsi={weather.current.deskripsi} />
+              <p className="mt-1 font-heading text-3xl font-bold text-primary">
+                {weather.current.suhu}°C
+              </p>
+              <p className="text-xs text-secondary">
+                {weather.current.suhuMin}° - {weather.current.suhuMax}°
+              </p>
+            </div>
           </div>
-          <div className="flex flex-col items-end">
-            <CloudSun className="h-9 w-9 text-weather" strokeWidth={2} />
-            <p className="mt-1 font-heading text-3xl font-bold text-primary">28°C</p>
-            <p className="text-xs text-secondary">24° - 32°</p>
-          </div>
-        </div>
 
-        <div className="mt-4 grid grid-cols-3 gap-2 border-t border-black/10 pt-3">
-          <WeatherStat icon={Droplets} label="Kelembapan" value="78%" />
-          <WeatherStat icon={Wind} label="Angin" value="12 km/j" />
-          <WeatherStat icon={CloudRain} label="Peluang Hujan" value="20%" />
+          <div className="mt-4 grid grid-cols-3 gap-2 border-t border-black/10 pt-3">
+            <WeatherStat icon={Droplets} label="Kelembapan" value={`${weather.current.kelembapan}%`} />
+            <WeatherStat icon={Wind} label="Angin" value={`${weather.current.anginKmj} km/j`} />
+            <WeatherStat icon={CloudRain} label="Curah Hujan" value={`${weather.current.curahHujanMm} mm`} />
+          </div>
+        </Link>
+      ) : (
+        <div className="mx-6 flex items-center gap-3 rounded-card bg-weather/12 p-5">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-weather/20">
+            <CloudSun className="h-5 w-5 text-weather" strokeWidth={2} />
+          </span>
+          <div className="min-w-0 flex-1">
+            <p className="text-sm font-medium text-primary">Cuaca belum tersedia</p>
+            <p className="mt-0.5 text-xs text-secondary">
+              Lengkapi domisili di profil untuk melihat prakiraan cuaca lokasi Anda.
+            </p>
+          </div>
+          <Link
+            href="/profil/edit"
+            className="shrink-0 rounded-button bg-forest px-3 py-2 text-xs font-semibold text-white"
+          >
+            Atur
+          </Link>
         </div>
-      </section>
+      )}
 
       {/* Featured recommendation */}
       <section className="relative mx-6 overflow-hidden rounded-card bg-forest p-5">
@@ -167,20 +150,7 @@ export default async function BerandaPage() {
         <h2 className="font-heading text-base font-bold text-primary">
           Fitur Pertanian
         </h2>
-        <div className="mt-3 grid grid-cols-3 gap-3">
-          {FEATURES.map(({ href, label, icon: Icon, bg, text }) => (
-            <Link
-              key={label}
-              href={href}
-              className={`flex flex-col items-center gap-2 rounded-2xl ${bg} px-2 py-4`}
-            >
-              <Icon className={`h-8 w-8 ${text}`} strokeWidth={2} />
-              <span className="text-center text-sm font-medium leading-tight text-primary">
-                {label}
-              </span>
-            </Link>
-          ))}
-        </div>
+        <FeatureGrid />
       </section>
 
       {/* Untuk Anda */}

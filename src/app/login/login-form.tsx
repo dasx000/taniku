@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { Eye, EyeOff, Lock, User, Sprout } from "lucide-react";
 import { BrandMark, BrandWordmark } from "@/components/brand-mark";
+import { Spinner } from "@/components/spinner";
 import { createClient } from "@/lib/supabase/client";
 
 const GENERIC_ERROR = "Nomor HP / Email atau password salah.";
@@ -143,8 +144,9 @@ export function LoginForm() {
           <button
             type="submit"
             disabled={loading}
-            className="mt-2 h-12 w-full rounded-button bg-forest text-[15px] font-semibold text-white shadow-[0_8px_20px_-8px_rgba(22,131,75,0.5)] transition active:scale-[0.98] disabled:opacity-60"
+            className="mt-2 flex h-12 w-full items-center justify-center gap-2 rounded-button bg-forest text-[15px] font-semibold text-white shadow-[0_8px_20px_-8px_rgba(22,131,75,0.5)] transition active:scale-[0.98] disabled:opacity-60"
           >
+            {loading ? <Spinner className="h-4 w-4" /> : null}
             {loading ? "Memproses..." : "Masuk"}
           </button>
         </form>

@@ -40,6 +40,24 @@ supaya terpisah rapi dari schema bawaan Supabase.
 8. Jalankan [`lahan.sql`](./lahan.sql) di SQL Editor. Ini membuat tabel
    `taniku.lahan` (data lahan pribadi per-user untuk halaman "Lahan Saya"),
    dengan RLS: tiap user cuma bisa baca/tulis baris miliknya sendiri.
+9. Jalankan [`tanaman.sql`](./tanaman.sql) di SQL Editor. Ini menambah kolom
+   `tanggal_tanam`/`status` di `taniku.lahan` + tabel `taniku.lahan_tahapan`
+   (5 tahap budidaya per lahan) untuk halaman "Tanaman Saya".
+10. Jalankan [`profile-edit.sql`](./profile-edit.sql) di SQL Editor. Ini
+    menambah policy RLS `profiles_update_own` + grant kolom `full_name`/`phone`
+    supaya user bisa edit profilnya sendiri lewat halaman "Edit Profil"
+    (kolom `role`/`id` sengaja tidak di-grant).
+11. Jalankan [`wilayah.sql`](./wilayah.sql) di SQL Editor. Ini membuat tabel
+    referensi **`public.wilayah`** (Provinsi/Kabupaten/Kecamatan/Desa sesuai
+    Kepmendagri, dipakai buat form domisili + kode adm4 untuk API cuaca BMKG)
+    dan kolom domisili (`provinsi`/`kabupaten`/`kecamatan`/`desa`/`kode_wilayah`)
+    di `taniku.profiles`. Sengaja di schema `public` (bukan `taniku`) karena ini
+    data referensi umum lintas-aplikasi -- app lain yang connect ke project
+    Supabase yang sama bisa langsung pakai tanpa bikin tabel sendiri; `public`
+    juga sudah otomatis ter-expose ke Data API (tidak perlu langkah 3 lagi).
+    Setelah itu import [`data/wilayah.csv`](./data/wilayah.csv) (~91 ribu baris)
+    ke tabel `public.wilayah` -- lewat `psql \copy` (lihat bagian alternatif di
+    bawah) karena terlalu besar untuk Table Editor.
 
 ## Akun dummy yang sudah tersedia
 
@@ -83,6 +101,8 @@ psql "$SUPABASE_DB_URL" -c "\copy taniku.produk from 'supabase/data/produk.csv' 
 psql "$SUPABASE_DB_URL" -c "\copy taniku.produk_bahan_aktif from 'supabase/data/produk_bahan_aktif.csv' csv header"
 psql "$SUPABASE_DB_URL" -c "\copy taniku.aplikasi from 'supabase/data/aplikasi.csv' csv header"
 psql "$SUPABASE_DB_URL" -f supabase/auth.sql
+psql "$SUPABASE_DB_URL" -f supabase/wilayah.sql
+psql "$SUPABASE_DB_URL" -c "\copy public.wilayah from 'supabase/data/wilayah.csv' csv header"
 ```
 
 ## Memanggil RPC dari kode Next.js

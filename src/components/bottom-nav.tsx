@@ -1,9 +1,11 @@
 "use client";
 
+import { useTransition, type MouseEvent } from "react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { Bell, Home, Newspaper, User } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
+import { LoadingOverlay } from "@/components/loading-overlay";
 
 type NavItem = {
   href: string;
@@ -21,6 +23,16 @@ const NAV_ITEMS: NavItem[] = [
 
 export function BottomNav() {
   const pathname = usePathname();
+  const router = useRouter();
+  const [pending, startTransition] = useTransition();
+
+  function handleClick(e: MouseEvent<HTMLAnchorElement>, href: string) {
+    if (href === pathname) return;
+    e.preventDefault();
+    startTransition(() => {
+      router.push(href);
+    });
+  }
 
   return (
     <nav className="fixed inset-x-0 bottom-0 z-50 border-t border-black/5 bg-card">
@@ -31,6 +43,7 @@ export function BottomNav() {
             <Link
               key={href}
               href={href}
+              onClick={(e) => handleClick(e, href)}
               className="flex min-w-[64px] flex-1 flex-col items-center gap-1 rounded-xl py-1.5"
             >
               <span className="relative flex h-6 w-6 items-center justify-center">
@@ -55,6 +68,7 @@ export function BottomNav() {
           );
         })}
       </div>
+      <LoadingOverlay active={pending} />
     </nav>
   );
 }
