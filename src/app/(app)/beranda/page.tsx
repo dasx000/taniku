@@ -14,6 +14,7 @@ import {
   Sprout,
   Stethoscope,
   Tractor,
+  Wheat,
   Wind,
   type LucideIcon,
 } from "lucide-react";
@@ -30,6 +31,7 @@ type Feature = {
 
 const FEATURES: Feature[] = [
   { href: "/lahan", label: "Lahan Saya", icon: Map, bg: "bg-forest/10", text: "text-forest" },
+  { href: "/tanaman", label: "Tanaman Saya", icon: Wheat, bg: "bg-warning/15", text: "text-warning" },
   { href: "/kalkulator-benih", label: "Kalkulator Benih", icon: Calculator, bg: "bg-forest/10", text: "text-forest" },
   { href: "/kalkulator-pupuk", label: "Kalkulator Pupuk", icon: FlaskConical, bg: "bg-leaf/15", text: "text-leaf" },
   { href: "/cuaca", label: "Cuaca", icon: CloudSun, bg: "bg-weather/15", text: "text-weather" },
