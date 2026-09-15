@@ -1,0 +1,2126 @@
+id,nama_umum,nama_latin
+1,gulma golongan rumput,Digitaria adcendens
+2,gulma golongan rumput,Echinochloa colona
+3,gulma golongan rumput,Imperata cylindrica
+4,gulma golongan rumput,Digitaria ciliaris
+5,gulma golongan rumput,Brachiaria eruciformis
+6,gulma berdaun lebar,Borreria alata
+7,gulma berdaun lebar,Cleome aspera
+8,gulma berdaun lebar,Alternanthera braziliana
+9,gulma berdaun lebar,Ageratum conyzoides
+10,penyakit hawar pelepah,Rhizoctonia solani
+11,Wereng hijau,Nephotettix virescens
+12,Wereng punggung putih,Sogatella furcifera
+13,Kepinding Tanah,Scotinophara sp
+14,Wereng coklat,Nilaparvata lugens
+15,walang sangit,Leptocorysa oratorius
+16,kutu kebul,Bemisia tabaci
+17,nyamuk vektor DBD,"Aedes aegypti (75 ml/ha) Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/pest control"
+18,Nyamuk,Culex quinquefasciatus
+19,gulma golongan rumput,Ottochola nodosa 0.75 - 1.5 l/ha
+20,gulma berdaun lebar,Clidemia hirta 0.75 - 1.5 l/ha
+21,gulma berdaun lebar,Ageratum conyzoides 0.75 - 1.5 l/ha
+22,gulma berdaun lebar,Melastoma malabatricum 0.75 - 1.5 l/ha
+23,penggerek buah,Helicoverpa armigera
+24,gulma berdaun lebar,Richardia brasiliensis
+25,gulma berdaun lebar,Commelina benghalensis
+26,gulma berdaun lebar,Croton hirtus
+27,gulma berdaun lebar,Ipomoea triloba
+28,gulma berdaun lebar,Celosia argentea
+29,gulma berdaun lebar,Cleome rutidosperma
+30,gulma berdaun lebar,Synedrella nodiflora
+31,gulma berdaun lebar,Calopogonium mucunoides
+32,gulma berdaun lebar,Phyllanthus niruri
+33,gulma berdaun lebar,Amaranthus spinosus
+34,gulma golongan rumput,Axonopus compressus
+35,gulma golongan rumput,Paspalum conjugatum
+36,gulma golongan rumput,Ischaemum timorense
+37,gulma golongan rumput,Ischaemum rugosum
+38,gulma golongan rumput,Ottochloa nodosa
+39,gulma berdaun lebar,Marsilea crenata
+40,gulma berdaun lebar,Limnocharis flava
+41,gulma berdaun lebar,Monochoria vaginalis
+42,gulma berdaun lebar,Ludwigia octovalvis
+43,ulat grayak,Spodoptera frugiperda
+44,hama trips,Thrips parvispinus
+45,ulat grayak,Spodoptera litura
+46,penyakit hawar daun,Phytophthora infestans
+47,Rayap tanah,Coptotermes curvignathus
+48,Meningkatkan produksi karet kering,
+49,penyakit embun bulu,Peronospora destructor
+50,penyakit bercak ungu,Alternaria porri
+51,gulma golongan rumput,Setaria plicata
+52,gulma berdaun lebar,Chromolaena odorata
+53,gulma berdaun lebar,Diodia sarmentosa
+54,teki,Cyperus rotundus
+55,gulma berdaun lebar,Biden pilosa
+56,gulma berdaun lebar,Mimosa invisa
+57,gulma berdaun lebar,Asystasia gangetica
+58,gulma berdaun lebar,Clidemia hirta
+59,gulma berdaun lebar,Chromolena odorata
+60,gulma berdaun lebar,Melastoma affine
+61,"meningkatkan tinggi tanaman, jumlah daun, jumlah anakan dan bobot hasil",
+62,Penyakit embun tepung,Oidium tingitanium
+63,Penyakit kapang kelabu,Botrytis cinerea
+64,-,-
+65,gulma berdaun lebar,Melastoma malabathricum
+66,gulma berdaun lebar,Mikania micrantha
+67,gulma berdaun lebar,Eclipta prostrata
+68,gulma golongan rumput,Digitaria sanguinalis
+69,gulma golongan rumput,Eleusine indica
+70,gulma berdaun lebar,Portulaca oleracea
+71,gulma golongan rumput,Digitaria adscendens
+72,Siput murbei,Pomacea canaliculata
+73,penggerek polong,Maruca testulalis
+74,teki,Cyperus iria
+75,teki,Fimbristylis miliceae
+76,gulma berdaun lebar,Bidens pilosa
+77,gulma berdaun lebar,Alternanthera sessilis
+78,gulma golongan rumput,Digitaria adscendes
+79,gulma golongan rumput,Leptochloa chinensis
+80,penyakit hawar daun,Phytopthora infestans
+81,kutu daun,Myzus persicae
+82,gulma golongan rumput,Echinochloa crus-galli
+83,penggerek batang,Scirpophaga incertulas
+84,penghisap buah,Helopeltis sp.
+85,Lalat buah,Dacus spp.
+86,Lalat buah,Dacus ferrugineus
+87,Penyakit antraknosa,Colletotrichum sp
+88,gulma golongan rumput,Echinochloa colonum
+89,gulma berdaun lebar,Ludwigia hyssopifolia
+90,teki,Fimbristylis littoralis
+91,kecoak,Periplaneta americana
+92,kecoak,Blatella germanica
+93,penyakit busuk daun,Phytophtora infestans
+94,gulma golongan rumput,Cynodon dactylon
+95,teki,Fimbristylis miliacea
+96,teki,Fimbrystylis miliacea
+97,gulma berdaun lebar,Monocharia vaginalis
+98,gulma berdaun lebar,Alternanthera piloxeroides
+99,gulma berdaun lebar,Spenochloa zeylanica
+100,gulma golongan rumput,Echinochloa cruss-galli
+101,Penyakit antraknosa,Colletotrichum lagenarium
+102,Penyakit antraknosa,Colletotrichum capsici
+103,Penyakit antraknosa,Colletotrichum gloeosporioides
+104,gulma berdaun lebar,Mersilea crenata
+105,Penyakit busuk buah,Phytophthora palmivora
+106,Penyakit bercak daun,Cercospora capsici
+107,Siput murbei,Pomaceae canaliculata
+108,,"meningkatkan jumlah bunga, jumlah buah,bobot buah, dan diameter buah"
+109,ulat grayak,Spodoptera exigua
+110,penggerek buah,Conopomorpha cramerella
+111,pengorok daun,Liriomyza chinensis
+112,gulma berdaun lebar,Alternanthera philoxeroides
+113,gulma golongan rumput,Echinochloa crus-galii
+114,hama putih palsu,Cnaphalocrosis medinalis
+115,penggerek batang padi kuning,Schirpophaga incertulas
+116,gulma berdaun lebar,Erigeron sumatrensis
+117,gulma golongan rumput,Brachiaria mutical
+118,perusak daun,Plutella xylostella
+119,ulat krop,Crocidolomia pavonana
+120,walang sangit,Leptocorisa oratorius
+121,pengorok daun,Liriomyza huidobrensis
+122,gulma berdaun lebar,Euphorbia hirta
+123,penggulung daun,Lamprosema indicata
+124,Nyamuk,Aedes aegypti
+125,gulma golongan rumput,Paspalum vaginatum
+126,gulma golongan rumput,Echinochloa crusgalli
+127,teki,Cyperus difformis
+128,gulma golongan rumput,Brachiaria mutica
+129,gulma berdaun lebar,Boreria alata
+130,gulma berdaun lebar,Praxelis clematidea
+131,Rayap tanah,Coptotermes curvignsathus
+132,penyakit rebah semai,pythium aphanidermatum
+133,Penggerek Buah Kopi,Hypothenemus hampei
+134,gulma berdaun lebar,Spenochlea zeylanica
+135,gulma berdaun lebar,Passiflora sp.
+136,gulma berdaun lebar,Asystasia sp.
+137,penggerek polong,Etiella zinckenella
+138,teki,Cyperus difformis (40 - 60 g/ha ) Lymnocharis flava
+139,gulma berdaun lebar,Borreria latifolia (100 - 200 g/ha ) Leguminosa
+140,gulma berdaun lebar,Ageratum conyzoides (150 - 200 g/ha ) Borreria alata (150 - 200 g/ha ) Synedrella nodiflora
+141,teki,Scirpus juncoides
+142,hama trips,Thrips palmi
+143,Gulma daun lebar,Mimosa invisa Portulaca oleracea Richardia brasiliensis
+144,gulma golongan rumput,Brachiaria mutica Croton hirtus Digitaria ciliaris Eleusine indica
+145,Gulma daun lebar,Cleome sp.
+146,gulma golongan rumput,Digitaria sp.
+147,gulma golongan rumput,Leersia hexandra
+148,gulma golongan rumput,Panicum distichum
+149,gulma berdaun lebar,Ludwigia adscendens
+150,gulma berdaun lebar,Ludwigia perennis
+151,gulma berdaun lebar,Basilicum polystachyon
+152,gulma golongan rumput,Rottboellia exaltata
+153,gulma berdaun lebar,Cleome rutidospermae
+154,gulma berdaun lebar,Drymaria cordata
+155,gulma berdaun lebar,Calopogonium mucinoides
+156,gulma berdaun lebar,Mikania michrantha
+157,gulma golongan rumput,Elusine indica
+158,gulma berdaun lebar,Borerria alata
+159,Lalat bibit,Ophiomya phaseoli
+160,Nyamuk,Culex quinguefasciatus
+161,Siput murbei,Pomacea cannaliculata
+162,penyakit hawar pelepah,Rhizoctonia sp.
+163,hama trips,Thrips sp. (2 g/10 l
+164,Penyakit bercak kering,Alternaria solani
+165,hama gudang,Sitophilus oryzae
+166,penyakit busuk daun,Phythophtora infestans
+167,Penyakit patik daun,Cercospora nicotianae
+168,Penyakit bercak daun,Cercospora spp.
+169,gulma berdaun lebar,Ageratum conizoides
+170,Pengisap buah,Helopeltis antonii
+171,hama gudang,Tribolium castaneum
+172,hama gudang,Rhyzopertha dominica
+173,hama gudang,Sitophilus zeamais
+174,Orong-orong,Gryllotalpa sp.
+175,wereng batang coklat,"Nilaparvata lugens Perlakuan benih: 12,5 ml/kg benih Penyemprotan volume tinggi: 0,25 - 0,5 l/ha"
+176,penggerek batang padi,"Scirpophaga incertulas Perlakuan benih: 18,75 -25 ml/kg benih Penyemprotan volume tinggi: 3 ml/1"
+177,penggerek buah,Canopomorpha cramerella
+178,Penggerek pucuk,Scirpophaga nivella
+179,kutu loncat,Diaphorina citri
+180,Belalang,Locusta sp.
+181,Semut,Solenopsis germinate
+182,hama trips,Thrips sp.
+183,gulma berdaun lebar,Borrreria alata
+184,Lalat bibit,Ophiomyia phaseoli
+185,Penyakit antraknosa,Colletotrichum circinans
+186,Kebutuhan Ekspor,Kebutuhan Ekspor
+187,Penyakit bercak daun,Cercospora oryzae
+188,penyakit blas,Pyricularia oryzae
+189,Lalat,"Musca domestica Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/ pest control"
+190,gulma berdaun lebar,Cleome asvera
+191,gulma berdaun lebar,Althenanthera philoxeroides
+192,meningkatkan produksi gabah kering giling (GKG),
+193,Semut,Anoploplepis gracilipes
+194,kecoak,Periplanetta americana
+195,Lalat,Musca domestica
+196,gulma berdaun lebar,Micania micrantha
+197,Nyamuk,Aedes aegypti Culex quinquefasciatus
+198,Penyakit lanas,Phytophtora nicotianae
+199,penyakit busuk daun,Phytophthora capsici
+200,Penyakit busuk buah,Phytophtora palmivora
+201,penyakit embun bulu,Pseudoperonospora cubensis
+202,penyakit busuk pangkal batang,Phytophthora citrosphthora
+203,gulma berdaun lebar,Synedrella nodifora
+204,Penyakit karat,Puccinia sorghi
+205,Penyakit bulai,Peronosclerospora maydis
+206,Tikus sawah,Rattus argentiventer
+207,kumbang tanduk,Oryctes rhinoceros
+208,ulat kantong,Metisa plana
+209,penggerek buah,Heliothis armigera
+210,Tidak Termasuk Salah Satu Persyaratan Pendaftaran Izin Tetap Baru Bahan Teknis,Tidak Termasuk Salah Satu Persyaratan Pendaftaran Izin Tetap Baru Bahan Teknis
+211,Penggerek pucuk,Scirpophaga excerptalis
+212,penggerek batang,Chilo sacchariphagus
+213,penggerek umbi,Phthorimaea operculella
+214,"Meningkatkan jumlah bunga terbentuk jumlah pentil buah, hasil panen",
+215,hama gudang,Lasioderma serricorne
+216,,meningkatkan bobot buah
+217,gulma berdaun lebar,Richardia brasilensis
+218,teki,Cyperus kyllingia
+219,,"Mempercepat waktu pembungaan, Meningkatkan banyaknya ranting, bunga"
+220,,"Meningkatkan hasil jumlah gabah/malai, produksi gabah"
+221,Nyamuk,Culex quinquefaciatus
+222,gulma berdaun lebar,Galinsoga parpiflora
+223,gulma berdaun lebar,Asystasia intrusa
+224,Penyakit bercak daun,Cercospora sp.
+225,Penyakit bercak daun,Marsonina coronaria
+226,hama belalang,Oxya chinensis
+227,peningkatan jumlah dan bobot segar daun,
+228,peningkatan jumlah dan bobot segar buah,
+229,gulma golongan rumput,Oplismenus burmannii
+230,gulma golongan rumput,Cynodon dactilon
+231,Semut,Anoplolepis gracilipes
+232,kutu daun,Toxoptera citridus
+233,kutu daun,Aphis glycines
+234,gulma golongan rumput,Panicum repens
+235,gulma berdaun lebar,Commelina diffusa
+236,penggerek batang,Scirpophaga innotata
+237,Memacu pembentukan warna kulit buah,Degreening
+238,penggerek batang,Scirpophaga sp.
+239,T.A.D (Product export),T.A.D
+240,Siput trisipan,Cerithidea sp.
+241,hama gudang,Sitophilus spp.
+242,gulma golongan rumput,Brachiaria paspaloides
+243,gulma berdaun lebar,Althernanthera sessilis
+244,gulma berdaun lebar,Portulaca oleraceae
+245,teki,Cyperus iría
+246,HamaKutu Daun,Aphis sp
+247,Tikus belukar,Rattus tiomannicus
+248,gulma golongan rumput,Paspalum distichum
+249,gulma berdaun lebar,Jussiae latifolia
+250,ulat tanah,Agrotis ipsilon
+251,perusak daun,Plusia chalcites
+252,Lalat bibit,Atherigona exigua
+253,kutu busuk,Cimex hemipterus
+254,ulat api,Setothosea asigna
+255,gulma golongan rumput,Ottocholoa nodosa
+256,gulma golongan rumput,Ishaemum timorense
+257,gulma golongan rumput,"Panicum repens 1,5 - 3 l/ha"
+258,gulma golongan rumput,"Imperata cylindrica 1,5 - 3 l/ha"
+259,gulma berdaun lebar,"Asystasia gangetica 1,5 - 3 l/ha"
+260,gulma berdaun lebar,Sphenochloea zeylanica
+261,gulma berdaun lebar,Synedrella nodifloria
+262,penggerek batang,Scirphopaga incertulans
+263,gulma berdaun lebar,Asystasia gengetica
+264,hama trips,Thrips palrvispinus
+265,siput babi,Achatina fulica
+266,semut api,Solenopsis geminate
+267,hama lalat bibit (2 mg/kg ),Atherigona oryzae
+268,,"meningkatkan jumlah gabah per malai, bobot gabah per malai, panjang malai, hasil ubinan dan hasil per hektar"
+269,hama trips,Thrips tabaci
+270,gulma golongan rumput,Eleusine indicata
+271,gulma berdaun lebar,Mikania micranta
+272,Golongan rumput,Echinochloa collona
+273,penyakit busuk daun,Phythophoathora infestans
+274,penyakit bercak ungu,Alternaria porii
+275,penyakit hawar daun,Phythophthora infestans
+276,Penyakit bercak daun coklat,Curvularia maculans
+277,Penyakit bercak daun,Stigmina mangiferae
+278,Penyakit bercak daun,Cercospora sojina
+279,Penyakit bercak coklat sempit,Cercospora janseana
+280,Penyakit bercak daun,Cercospora vignae
+281,penyakit hawar daun,Helminthosporium turcicum
+282,Rayap tanah,Coptotermes gestroi
+283,kutu daun,Aphis craccivora
+284,pengorok daun,Liriomyza sp.
+285,Tungau kuning,Polyphagotarsonemus latus
+286,Pakis,Cyclosorus aridus
+287,,2-methylisothiazol-3(2H)-one
+288,,"1,2-benzisothiazol-3(2H)-one"
+289,"Meningkatkan bobot 10 umbi, hasil/tanaman basah, hasil/tanaman kering, hasil/petak",
+290,penyakit rebah kecambah,Pythium sp.
+291,ulat api,Thosea asigna
+292,Lalat bibit,Agromyza phaseoli
+293,Meningkatkan keluarnya lateks,Meningkatkan keluarnya lateks
+294,gulma berdaun lebar,Sphenoclea zeylanica
+295,,meningkatkan hasil produksi
+296,teki,Eleocharis dulcis
+297,teki,Cyperus spp.
+298,penyakit bakteri busuk lunak,Erwinia carotovora
+299,penyakit busuk gabah,Pseudomonas glumae
+300,gulma berdaun lebar,Melastoma malabatricum
+301,gulma golongan rumput,Centotheca lappaceae
+302,teki,Scleria sumatrensis
+303,penyakit busuk batang,Helminthosphorium sigmoideum
+304,Penyakit bercak daun,Cercospora citrulina
+305,Nyamuk,Culex quinquefasciatus (Pengasapan (thermal fogging):100 ml/ha)
+306,Nyamuk,Aedes aegypti (Pengasapan (thermal fogging): 100 ml/ha)
+307,Nyamuk,Culex quinquefasciatus (Pengkabutan (ULV): 100 ml/ha)
+308,Nyamuk,Aedes aegypti (Pengkabutan (ULV): 75 ml/ha)
+309,Penyakit antraknosa,Gloeosporium piperatum
+310,penyakit busuk daun,Phytophthora sp.
+311,Penyakit busuk hitam,Xanthomonas campestris
+312,gulma berdaun lebar,Monochoria vaginalis 5.25 - 12.5 g/ha
+313,gulma berdaun lebar,Ludwigia octovalvis 5.25 - 12.5 g/ha
+314,gulma berdaun lebar,Marsilea crenata 5.25 - 12.5 g/ha
+315,teki,Fimbrystylis milicea 5.25 - 12.5 g/ha
+316,Penyakit antraknosa,Colletotrichum gloeosporiodes
+317,Penyakit bulai,Perenosclerospora maydis
+318,Penyakit bercak daun,Septoria lycopersici
+319,penyakit bercak ungu,Altemaria porri
+320,penggerek batang,Scipophaga incertulas
+321,Lalat buah,Bactrocera dorsalis
+322,Hama putih,Nymphula depunctalis
+323,Lalat daun,Hydrellia philippina
+324,Wereng punggung putih,Sogatella frucifera
+325,Belalang,Sexava nubila
+326,Rayap kayu kering,Cryptotermes cynocephalus
+327,,"Meningkatkan tinggi tanaman, jumlah anakan, skor warna daun, komponen hasil tanaman"
+328,kutu daun,Aphis cracivora
+329,Kutu kumbang daun,Epiachna spp.
+330,Penyakit embun tepung,Oidium sp.
+331,penyakit hawar pelepah,Rhizoctania solani
+332,gulma golongan rumput,Eulisine indica
+333,,Mematikan tunggul kayu tanaman karet/peremajaan
+334,Pengisap buah,Helopeltis sp. 0.125 ml/l
+335,penggerek buah,Conopomorpha cramerella 0.125 ml/l
+336,ulat grayak,Spodoptera sp. 0.125 ml/l
+337,Penggerek pucuk,Heliothis sp. 0.125 ml/l
+338,kutu daun,Myzus persicae 0.125 ml/l
+339,kutu daun,Toxoptera sp. 0.5 ml/l
+340,ulat grayak,Spodoptera exigua 0.5 ml/l
+341,hama trips,Thrips palmi 0.5 ml/l
+342,Lalat buah,Bactrocera sp. 0.5 ml/l
+343,hama trips,Thrips parvispinus 0.5 ml/l
+344,ulat api,Setora nitens
+345,,"Meningkatkan tinggi tanaman, jumlah daun, jumlah akar, akar terpanjang, dan bobot basah tanaman"
+346,Penyakit Layu Fusarium,Fusarium oxysporum
+347,gulma golongan rumput,Digitaria cliaris
+348,penggerek polong,Meruca testulalis
+349,merangsang pembungaan,
+350,gulma golongan rumput,Ischaemum tumorense
+351,,"meningkatkan volume lateks, kadar karet kering dan produksi karet kering"
+352,penggerek batang,Tryporyza incertulas
+353,anti jamur,2- Octyl - 2 H Isothoazol - 3 - one
+354,penyakit busuk daun,Phytophthora infestans.
+355,pinjal,Ctenocephalides felis
+356,gulma golongan rumput,Eulesine indica
+357,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk keperluan ekspor.,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk keperluan ekspor.
+358,penyakit busuk daun,phytophthora infestans 20 - 25 g/l
+359,penyakit hawar daun,Phytophthora infestans 2 g/l
+360,Penyakit cacar daun,phyllosticta sp. 1- 2 g/l
+361,penyakit antraknosa buah,colletotrichum spp. 1 - 2 g/l
+362,bercak daun,cercospora capsici 1 - 2 g/l
+363,meningkatkan efisiensi pembungaan dan mempercepat panen buah kopi,
+364,gulma berdaun lebar,Alternanthera philaxeroides
+365,Izin Tetap Ulang Bahan Teknis,Izin Tetap Ulang Bahan Teknis
+366,gulma berdaun lebar,Hyptis capitata
+367,gulma golongan rumput,Paspalum disticum
+368,teki,Fimbristylis litoralis
+369,gulma golongan rumput,Axonophus compressus
+370,gulma golongan rumput,Rottboelia exaltata
+371,kecoak,Periplaneta americana Blatella germanica
+372,Wereng coklat,Nilaparvata lugens.
+373,hama jembret,Mesopodopsis sp.
+374,tidak ada,tidak ada
+375,gulma golongan rumput,Echinochloa nodosa
+376,gulma berdaun lebar,Murdannia nudiflora
+377,Tikus rumah,Rattus rattus diardi
+378,gulma berdaun lebar,Borreria repens
+379,gulma berdaun lebar,Stenochlaena palustris
+380,gulma berdaun lebar,Mikania cordata
+381,gulma golongan rumput,Digitaria cordata
+382,gulma golongan rumput,Dactyloctenium aegyptium
+383,gulma berdaun lebar,Althernanthera sesillis
+384,gulma berdaun lebar,Phylanthus niruri
+385,gulma berdaun lebar,Urena lobata
+386,penyakit busuk batang,Helminthosporium sigmoideum
+387,Penyakit bidang sadap,Ceratocystis fimbriata
+388,Penyakit bercak daun,Alternaria brassicae
+389,Penyakit VSD (Vascular Streak Dieback),Ceratobasidium theobromae
+390,Penyakit busuk buah,Phytoptora palmivora
+391,Penyakit embun tepung,Podosphaera xanthii
+392,Penyakit sigatoka,Mycosphaerella musicola
+393,gulma pakis,Pteridium esculentum
+394,penyakit hawar daun,Phytophthora infenstans
+395,gulma berdaun lebar,Lindernia ciliata
+396,Penyakit antraknosa,Colletotrichum sp.
+397,penggerek batang,Tryporyza innotata
+398,gulma golongan rumput,Paspalum commersonii
+399,hama gudang,Tribolium spp.
+400,hama gudang,Cryptolestes spp.
+401,ulat grayak,Sprodoptera litura
+402,gulma golongan rumput,Ischaemum sp.
+403,gulma berdaun lebar,Alternanthera sesilis
+404,ulat grayak,Spodotera litura
+405,gulma berdaun lebar,Borreria latifolia
+406,gulma berdaun lebar,Synedrella nadiflora
+407,gulma berdaun lebar,Sphenochlea zeylanica
+408,gulma berdaun lebar,Lantana camara
+409,gulma berdaun lebar,Eupatorium odoratum
+410,gulma berdaun lebar,Diodia sarmanetosa
+411,gulma golongan rumput,Paspalum comersonii
+412,penyakit blas,Pyricularia grisea
+413,Penyakit atraknosa,Colletotrichum spp.
+414,Lalat bibit,Agromyza sp.
+415,gulma berdaun lebar,Spigelia anthelmia
+416,pengorok daun,"Liriomyza huidobrensis 0,5 ml/l"
+417,Wereng coklat,"Nilaparvata lugens 0,75 ml/l"
+418,ulat grayak,"Mythmna sepurata 0,75 ml/l"
+419,kutu daun,Myzus persicae 1 ml/l
+420,hama trips,Thrips parvispinus 1 ml/l
+421,Penyakit pembuluh kayu (VSD),"Oncobasidium theobromae (Penyemprotan daun: 1 ml/l),"
+422,penyakit hawar daun,Helminthosporium spp.
+423,penyakit akar putih,Rigidoporus lignosus
+424,gulma berdaun lebar,Ludwigia octovalis
+425,penggerek batang,Scirpophaga spp.
+426,"Mempercepat proses generatif, meningkatkan jumlah bunga, jumlah hasil/ petak, buah, hasil buah/tanaman hasil/ha",
+427,,Ratus tiomanicus
+428,penyakit hawar daun,Phythopthora infestans
+429,gulma berdaun lebar,Crassocephalum crepidiodes
+430,Nyamuk,Anopheles maculatus
+431,Penyakit bercak daun,Helminthosporium maydis
+432,gulma berdaun lebar,Celosia argantea
+433,wereng batang coklat,Nilavarpata lugens
+434,NA,NA
+435,Penyakit karat daun,Phakopsora pachyrhizi
+436,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk Bahan Teknis,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk Bahan Teknis
+437,gulma golongan rumput,Ischaenum timorense
+438,Untuk keperluan ekspor,Untuk keperluan ekspor
+439,Rayap tanah,Coptotermes sp.
+440,gulma golongan rumput,Spenochlea zeylanica 20 - 30 g/ha)
+441,gulma berdaun lebar,Lythrum hyssopifolia
+442,gulma golongan rumput,Eragrostis tenella
+443,gulma golongan rumput,Echinocloa colonum
+444,gulma berdaun lebar,Oxalis corniculata
+445,gulma berdaun lebar,Mimosa pudica
+446,gulma berdaun lebar,Phyllanthus urinaria
+447,Penyakit layu bakteri,Ralstonia solanacearum
+448,penyakit hawar daun bakteri,Xanthomonas oryzae
+449,penyakit busuk putih/mati pucuk,Phytophthora porri
+450,gulma golongan rumput,Axonopus compresus
+451,gulma berdaun lebar,Clidermia hirta
+452,gulma berdaun lebar,Asystasia gangetica 2 - 4 l/ha
+453,gulma berdaun lebar,Oldenlandia corymbosa 2 - 4 l/ha
+454,gulma berdaun lebar,Erigeron sumatrensis 2 - 4 l/ha
+455,gulma berdaun lebar,Borreria alata 2 - 4 l/ha
+456,gulma berdaun lebar,Ageratum conyzoides 2 - 4 l/ha
+457,gulma berdaun lebar,Biden pilosa 2 - 4 l/ha
+458,gulma golongan rumput,Digitaria ciliaris 2 -4 l/ha
+459,gulma golongan rumput,Paspalum conjugatum 2 -4 l/ha
+460,gulma golongan rumput,Ischaemum timorense 2 -4 l/ha
+461,gulma golongan rumput,Imperata cylindrica 2 -4 l/ha
+462,gulma golongan rumput,Ottochloa nodosa 2 -4 l/ha
+463,gulma berdaun lebar,Chromolaena adorata
+464,gulma berdaun lebar,Lymnocharis flava
+465,gulma golongan rumput,Jussiaea octovalvis
+466,Kutu busuk (125 ml/10 L),"Cimex hemipterus Peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas dinas kesehatan/ pest control"
+467,Kumbang,Alphitobius diaperinus
+468,Hama lundi/uret,Stibarophus molginus
+469,penggerek batang,Phragmagtocia castaneae
+470,gulma golongan rumput,Setaria viridis
+471,gulma berdaun lebar,Amarathus retroflexus
+472,N.A,N.A
+473,Siput murbei,Pomacea sp.
+474,Penyakit karat daun,Puccinia chrysanthemi
+475,penyakit bercak ungu,Alternaria alii
+476,penyakit busuk pangkal batang,Phytophthora palmivora var. piperis
+477,Penyakit embun tepung,Plasmopara viticola
+478,Penyakit embun tepung,Oidium tingitaninum
+479,penyakit rebah semai,Pythium spp.
+480,Penyakit karat daun,Uromyces vignae
+481,Penyakit bercak daun,Alternaria sp.
+482,Penyakit bercak daun,Cercospora arachidicola
+483,Penyakit bercak daun,Marssonina coronaria
+484,Penyakit bercak daun,Cercospora dendrobii
+485,Penyakit bercak daun,Cercospora coffeicola
+486,Penyakit karat daun,Hemileia vastatrix
+487,Penyakit bercak daun,Phyllosticta sp.
+488,Penyakit cacar daun,Exobasidium vexans
+489,kutu daun,Toxoptera citricidus
+490,hama trips,Thrips pervispinus
+491,gulma golongan rumput,Leptochloa nodusa
+492,hama trips,Trips tabaci
+493,gulma berdaun lebar,Althemanthera philoxeroides
+494,gulma berdaun lebar,Althernanthera phyloxeroides
+495,gulma berdaun lebar,Marsilea drummondii
+496,gulma berdaun lebar,Asystasisa gangetica
+497,hama kutu daun,Myzus percsicae
+498,gulma golongan rumput,Digitaria ciliaris 1.125-1.5 l/ha
+499,gulma golongan rumput,Paspalum conjugatum 1.125-1.5 l/ha
+500,gulma golongan rumput,Cynodon dactylon 1.125-1.5 l/ha
+501,gulma golongan rumput,Axonopus compressus 1.125-1.5 l/ha
+502,gulma berdaun lebar,Ageratum houstonianum 1.125-1.5 l/ha
+503,gulma berdaun lebar,Borreria alata 1.125-1.5 l/ha
+504,gulma berdaun lebar,Euphorbia hirta 1.125-1.5 l/ha
+505,gulma berdaun lebar,Ipomoea triloba 1.125-1.5 l/ha
+506,Semut,Anoplolepis gracillipes
+507,gulma berdaun lebar,"Ageratum conyzoides 2,25 - 3 l/ha"
+508,gulma berdaun lebar,"Borreria alata 2,25 - 3 l/ha"
+509,gulma berdaun lebar,"Mikania micrantha 2,25 - 3 l/ha"
+510,gulma golongan rumput,"Axonopus compressus 2,25 - 3 l/ha"
+511,gulma golongan rumput,"Ischaemum timorense 2,25 - 3 l/ha"
+512,gulma golongan rumput,"Paspalum conjugatum 2,25 - 4,5 l/ha"
+513,gulma berdaun lebar,"Ageratum conyzoides 2,25 - 4,5 l/ha"
+514,"Meningkatkan tinggi tanaman, Meningkatkan jumlah umbi per tanaman dan hasil tanaman",
+515,hama gudang,Rhyzoperta spp.
+516,,"Meningkatkan komponen hasil, panjang malai, bobot 1000 butir, presentase gabah isi, hasil ubinan, dan gabah per malai 3 tablet/ha"
+517,TAD,TAD
+518,Nyamuk,Aedes aegypt
+519,kepik hijau,Nezara viridula
+520,"Hama Tungau Merah (0,4 ml/l)",Tetranychus piercei
+521,"Kutu Daun (0,3 ml/l)",Rhapalosiphum maydis
+522,"Belalang (0,5 ml/l)",Oxya cinensis
+523,"Wereng mangga (0,2 ml/l)",Ideocerus spp.
+524,"Puru Daun (0,2 ml/l)",Procontarinia sp.
+525,"Penggerek buah mangga (0,2 ml/l)",Noorda albizonalis
+526,"Kutu putih (0,2 ml/l)",Planococcus sp.
+527,"Kutu Hijau (0,4 ml/l)",Cocus viridis
+528,Kutu putih,Planococcus citri
+529,Kumbang pemakan daun,Aulacophora sp.
+530,Wereng daun,Empoasca sp.
+531,"Kumbang Daun (0,2 ml/l)",Epilachna sp.
+532,teki,Fimbristylis miliaceae
+533,teki,Scirpus lateriforus
+534,gulma berdaun lebar,Gratiola juncea
+535,penyakit busuk batang,Ganoderma boninense
+536,gulma berdaun lebar,Elephantophus scaber
+537,penyakit busuk daun,Phytophthora insfestans
+538,Penyakit layu bakteri,Pseudomonas solanacearum
+539,"meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, komponen hasil dan hasil tanaman",
+540,gulma berdaun lebar,Gymnopetalium leucostichum
+541,gulma berdaun lebar,Crassocephalum crepidioides
+542,gulma berdaun lebar,Peperomia pellucida
+543,gulma berdaun lebar,Tetracera indica
+544,gulma berdaun lebar,Stachytarpheta indica
+545,gulma golongan rumput,Cyrtococum patens
+546,gulma golongan rumput,Centotheca lappacea
+547,gulma golongan rumput,Axonopus copressus
+548,gulma berdaun lebar,Borreria laevis
+549,gulma golongan rumput,Digitaria adscendense
+550,gulma berdaun lebar,Melochia corchorifolia
+551,gulma berdaun lebar,Caladium bicolor
+552,gulma golongan rumput,Cyrtococcum aerescens
+553,teki,Cyperus malaccensis
+554,gulma berdaun lebar,Aeschynomena indica
+555,gulma berdaun lebar,Weedelia triloba
+556,alang alang,Imperata cylindrica L.
+557,gulma berdaun lebar,Melostoma affine
+558,gulma golongan rumput,"Ottochloa nodosa 2,25-3 l/ha"
+559,gulma berdaun lebar,"Synedrella nodiflora 2,25-3 l/ha"
+560,gulma golongan rumput,Echinochloa cruss-gali
+561,kutu daun,Aphis gossypii
+562,ulat grayak,Spodopters exigua
+563,"Meningkatkan jumlah bunga dan buah, Meningkatkan bobot buah",.
+564,Penyakit bercak daun,Cercospora musicola
+565,gulma berdaun lebar,Pistia stratiotes
+566,,meningkatkan produksi lateks dan karet kering
+567,gulma berdaun lebar,Centrosema pubescens
+568,mempercepat proses pembungaan dan meningkatkan berat dan ukuran buah,
+569,Nyamuk,Anopheles aconitus
+570,rayap,Captotermes cuvignathus
+571,Penggerek padi kuning,Scirpohaga incerculas
+572,Penyakit jamur akar putih,Rigidoporus microporus
+573,gulma berdaun lebar,Sydrenella nodiflora
+574,gulma berdaun lebar,Cucumis moderaspatanus
+575,hama lindu/uret,Phyllophaga sp.
+576,penyakit blas,Pycularia oryzae
+577,gulma golongan rumput,Gleichenia linearis
+578,Meningkatkan produksi lateks,meningkatkan produksi lateks
+579,gulma golongan rumput,Eleusina indica
+580,"gulma berdaun lebar (1,5 - 2 l/ha)",Euphorbia pruniflora
+581,gulma berdaun lebar,Sphenodea zeylanica
+582,gulma berdaun lebar,Ludwigia octovaluis
+583,gulma golongan rumput,Leptochloa syriensia
+584,Nyamuk,Anopheles spp
+585,teki,Cyperus cyperoides
+586,gulma berdaun lebar,Crassochephalum crepidioides
+587,gulma berdaun lebar,Eupatorium riparium
+588,gulma berdaun lebar,Emilia sonchifolia
+589,Pakis,Nephrolepis bisserata
+590,gulma berdaun lebar,Hyptis brevipes
+591,gulma golongan rumput,Axonopus compresssus
+592,gulma berdaun lebar,Pysalis angulate
+593,"Meningkatkan jumlah anakan produktif tanaman padi, jumlah malai, panjang malai, dan bobot gabah kering padi",
+594,Meningkatkan tinggi tanaman dan hasil tanaman,
+595,"Meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, hasil/tanaman (g), jumlah umbi/ tanaman, hasil/petak (kg), dan hasil/ha (kg)",
+596,gulma berdaun lebar,Centrosema pusbescens
+597,gulma berdaun lebar (PVT),"Monocoria vaginalis (1,5 - 2 l/ha) Ludwigia adcendens (1,5 - 2 l/ha) Marsilea crenata (1,5 - 2 l/ha) Ludwigia octovalvis (1,5 - 2 l/ha) Spenochlea zeylandica"
+598,gulma golongan rumput (PVT),"Leptochloa chinensis (1,5 - 2 l/ha) Echinochloa crusgalii"
+599,teki (PVT),"Cyperus iria (1,5 - 2 l/ha) Cyperus diformis"
+600,gulma berdaun lebar (DRONE),"Ludwigia adcendens (1,5 - 2 l/ha) Spenochlea zeylandica (1,5 - 2 l/ha) Ludwigia octovalvis (1,5 - 2 l/ha) Marsilea crenata (1,5 - 2 l/ha) Monocoria vaginalis"
+601,teki (DRONE),"Cyperus diformis (1,5 - 2 l/ha) Cyperus iria"
+602,,"meningkatkan tinggi tanaman, jumlah daun per tanaman, diameter batang, bobot tongkol per tanaman, indeks panen, dan bobot tongkol per petak"
+603,hama trips,"Thrips palmi 1,5 ml/l"
+604,kutu daun,"Myzus persicae 1,5 ml/l"
+605,larva nyamuk,"Aedes aegypti Kalimat peringatan : Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/ pest control"
+606,tungau jingga,Brevipalpus phoenicis
+607,gulma golongan rumput,Ischaemum nodosa
+608,Nyamuk,Aedes albopictus
+609,Nyamuk,Anopheles sp.
+610,hama trips,Trips parvispinus
+611,,"Meningkat tinggi tanaman, jumlah cabang dan hasil tanaman"
+612,,"meningkatkan tinggi tanaman, komponen hasil (bobot 1000 bulir gabah dan persentase gabah isi) dan hasil panen"
+613,,"meningkatkan tinggi tanaman, komponen hasil, dan hasil tanaman"
+614,,"meningkatkan tinggi tanaman, bobot 10 buah, jumlah buah/tanaman, hasil/petak dan tanaman dugaan hasil/ha"
+615,,"meningkatkan tinggi tanaman, jumlah anakan, komponen hasil padi, jumlah gabah/malai, bobot gabah per malai, hasil ubinan basah, hasil ubinan kering, hasil GKG/ha jumlah malai, dan panjang malai"
+616,gulma golongan rumput,Setaria palmifolia
+617,gulma golongan rumput,Leptochloa synensis
+618,gulma golongan rumput,Otochloa nodosa
+619,gulma golongan rumput,Echiochloa crus-galli
+620,gulma berdaun lebar,Mimosa pigra
+621,Gulma daun lebar,Eleocharis dulchis
+622,Jamur Upas,Upasia salmonicolor
+623,Penyakit embun tepung,Oidum tingitaninum
+624,gulma berdaun lebar,Widelia biflora
+625,,"Mempercepat waktu berbunga, meningkatkan jumlah cabang berbunga, bobot buah per tanaman, bobot buah per luasan lahan, dan fruit set"
+626,,Menekan pertumbuhan rumput
+627,gulma berdaun lebar,Ludwigia perenis
+628,,2 - Octyl - 2H-isothiazol - 3 one
+629,larva nyamuk,"Aedes Aegypti Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/pest control"
+630,gulma berdaun lebar,Euphorbia heterophila
+631,hama trips,Thrips pirvispinus
+632,"Meningkatkan tinggi tanaman, jumlah daun, panjang tongkol, Bobot Tongkol Tanpa Klobot Bobot Tongkol dengan Klobot Bobot Tongkol per Tanaman Bobot Tongkol per petak produktivitas tanaman",
+633,-,
+634,gulma berdaun lebar,Calopagonium mucunoides
+635,"Meningkatkan tinggi tanaman, jumlah daun dan bobot hasil",
+636,Pengisap polong,Riptortus linearis
+637,penyakit bercak ungu,Altenaria porri
+638,gulma berdaun lebar,Ipomea triloba
+639,gulma berdaun lebar,Commelina difusa
+640,gulma berdaun lebar,"Synedrella nodiflora (2,25 - 4,5 l/ha("
+641,gulma golongan rumput:,"Setaria plicata (2,25 - 4,5 l/ha("
+642,gulma golongan rumput:,"Axonopus compresus (2,25 - 4,5 l/ha("
+643,gulma golongan rumput:,"Ishaemum timorensis (2,25 - 4,5 l/ha("
+644,gulma golongan rumput:,"Ottchloa nodosa (2,25 - 4,5 l/ha("
+645,gulma golongan rumput:,"Paspalum conjugatum (2,25 - 4,5 l/ha("
+646,"meningkatkan tinggi tanaman, jumlah daun, dan bobot hasil",
+647,penyakit blendok,Diplodia natalensis
+648,penyakit blas,Piricularia oryzae
+649,Penyakit antarknosa,Gloeosporium sp.
+650,penyakit kudis,Elsinoe iwatae
+651,perusak daun,Phaedonia inclusa
+652,Penggerek pucuk,Helicoverpa assulta
+653,hama gudang,Rhyzoperta dominica
+654,hama gudang,Tribolium sp.
+655,penyakit busuk batang,Dydimella bryoniae
+656,gulma berdaun lebar,Cloeme rutidospermae
+657,gulma berdaun lebar,Eclipta alba
+658,gulma golongan rumput,Digitaria sanguinalis Echinochloa colonum Echinochloa crusgalli
+659,gulma berdaun lebar,Ludwigia hysophifolia
+660,gulma berdaun lebar,Richardia sp.
+661,gulma berdaun lebar,(Brassicaceae) Cruciferae
+662,gulma golongan rumput,Setaria sp.
+663,gulma golongan rumput,Panicum sp.
+664,gulma golongan rumput,Lolium sp.
+665,gulma golongan rumput,Echinochloa sp.
+666,Rayap kayu kering,Coptotermes cynocephalus
+667,kutu daun,Toxoptera aurantii
+668,tungau,Tetranychus sp.
+669,Semut,Monomorium pharaonis
+670,Penyakit embun tepung,Podosphaera leucotricha
+671,Penyakit bercak daun,Cercospora personata
+672,Penyakit embun tepung,Oidium tabaci
+673,gulma berdaun lebar,Hedyostis corymbosa
+674,penggerek batang,Scirphopaga incertulas
+675,Lalat bibit,Hydrellia sp.
+676,hama belalang,Oxya sp.
+677,gulma golongan rumput,Digitaria cliliaris
+678,Penyakit karat daun,Phakopsora pachyrhizi 3 g/l
+679,Penyakit bercak daun,Cercospora capsici 2 g/l
+680,penyakit lumut kerak,Lichenes
+681,hama putih palsu,Cnaphalocrocis medinalis
+682,Meningkatkan produksi karet kering,Meningkatkan produksi karet kering
+683,gulma golongan rumput,Digitaria sp
+684,gulma golongan rumput,Cyrtococcum accrescens
+685,Lalat,M. Domestica
+686,penyakit hawar daun,Helminthosporium turacum
+687,Lalat bibit,Ophiornya phaseoli
+688,Lalat bibit,Atherigona sp.
+689,gulma golongan rumput,Ischemum timorense
+690,Ekspor,Ekspor
+691,-,"meningkatkan pertumbuhan tanaman, bobot biomasa, bobot gabah/rumpun, bobot gabah ubinan, bobot 1000 butir dan bobot gabah/ha (62,5 ml/ha (30, 50 dan 70 HST))"
+692,gulma berdaun lebar,Biden laevis
+693,penggerek batang,Ostrinia furnacalis
+694,ulat tanah,Agrotis sp.
+695,gulma berdaun lebar,Paedaria foetida
+696,gulma berdaun lebar,Alternanthera brasiliana
+697,gulma berdaun lebar,Dendrocnide moroides
+698,gulma berdaun lebar,Hedera helix
+699,Gulma Teki,Fibristylis miliacea
+700,hama trips,Thrips sp
+701,gulma berdaun lebar,Centella asiatica
+702,gulma berdaun lebar,Tetracera scandens
+703,gulma berdaun lebar,Asystacia intrusa
+704,Produk ini hanya digunakan untuk keperluan eksport dan tidak untuk dipergunakan/ diperjualbelikan di Indonesia.,Produk ini hanya digunakan untuk keperluan eksport dan tidak untuk dipergunakan/ diperjualbelikan di Indonesia.
+705,gulma berdaun lebar,Erechtites valerianfolia
+706,gulma berdaun lebar,Asystasia gangética
+707,izin tetap bahan teknis,izin tetap bahan teknis
+708,gulma berdaun lebar,Euphorbia parviflora
+709,gulma golongan rumput,Setaria glauca
+710,gulma golongan rumput,Cenchrus longispinus
+711,gulma berdaun lebar,brorreria alata
+712,gulma golongan rumput,Brachia mutica
+713,Penyakit antraknosa,Coletrotichum capsici
+714,gulma berdaun lebar,Callopogonium sp.
+715,,meningkatkan ketahanan tanaman terhadap penyakit yang disebabkan oleh bakteri
+716,,meningkatkan ketahanan tanaman terhadap penyakit busuk basah bakteri dan penyakit busuk hitam
+717,,meningkatkan ketahanan tanaman terhadap penyakit yang disebabkan oleh virus dan bakteri
+718,,meningkatkan ketahanan tanaman terhadap penyakit layu bakteri
+719,teki,Cyperus diformis
+720,hama gudang,Laemophloeus pusillus
+721,Rayap tanah,Coptermes gestroi
+722,gulma berdaun lebar,Amaranthus viridis
+723,Kumbang Bubuk Kayu,Lyctinae
+724,penyakit embun bulu,"Peronospora destructor 4,5 ml/l"
+725,penyakit hawar pelepah,Rhizoctonia solani 6 ml/l
+726,penyakit busuk daun,Phytophthora infestans 2 ml/l
+727,penyakit busuk hati,"Phytophthora spp. 2,25 ml/l"
+728,penyakit hawar daun,Phytophthora sp. 6 ml/l
+729,Penyakit busuk buah,Phytophthora palmivora 20 ml/l/20 ml air/pohon
+730,Jamur,5-Chloro-2methyl-4-isothiaolin-3-one and 2 methyl -2H-isothiaol-3-one
+731,penyakit busuk daun,Peronospora destructor 3 g/l
+732,Penyakit antraknosa,Colletotrichum capsici 2 g/l
+733,penyakit hawar daun,Phytophthora infestans 4 g/l
+734,Penyakit bercak kering,Alternaria solani 4 g/l
+735,Penyakit bercak coklat,Alternaria solani 3 g/l
+736,gulma berdaun lebar,Colopogonium mucunoides
+737,gulma berdaun lebar,Callopogonium mucunoides
+738,,2- methylisothiazol - 3 ( 2 ) - one
+739,gulma golongan rumput,Paspalum conjugantum
+740,Alphitobius sp,Alphiobius sp
+741,Sitophilus sp,Sitophilus sp
+742,"meningkatkan jumlah anakan, meningkatkan jumlah gabah/ malai, meningkatkan tinggi tanaman, meningkatkan jumlah anakan produktif, hasil gabah/ha",
+743,Lalat buah,Bactrocera sp
+744,penyakit bercak cokelat,Cerospora janseana
+745,gulma berdaun lebar,"Synedrella nodiflora, Ageratum conyzoides, Commelina benghalensis."
+746,gulma golongan rumput,Eleusine indica.
+747,gulma berdaun lebar,"Richardia brasiliensis, Cleome rutidosperma, Mimosa invisa, Spigelia anthelmia."
+748,gulma berdaun lebar,Stenochalena palustris
+749,gulma berdaun lebar,"Synedrella nodiflora, Amaranthus spinosus"
+750,teki,Fimbristylis littoralis.
+751,gulma golongan rumput,Leptochloa chinensis.
+752,gulma berdaun lebar,"Monochoria vaginalis, Ludwigia hyssopifolia"
+753,Guma berdaun lebar,"Ageratum Conyzoides, Borreria alata."
+754,gulma golongan rumput,"Cynodon dactylon, Digitaria ciliaris, Paspalum conjugatum, Brachiaria paspaloides."
+755,teki,"Cyperus rotundus, Cyperus killingia."
+756,teki,Cyperuas rotundus
+757,gulma berdaun lebar,Richardia brassilensis
+758,Meingkatkan produksi lateks,
+759,Nyamuk,Aedes aepgyti
+760,Semut,Anopholepis gracilipes
+761,,Rattus diardi
+762,Bahan Teknis,Bahan Teknis
+763,hama penghisap buah (1 ml/l),Helopeltis spp.
+764,penyakit busuk daun,Phitophthora infestans
+765,penyakit bercak ungu,Alternari porri
+766,gulma golongan rumput,Digiaria ciliaris
+767,gulma berdaun lebar,Cleome rutidosperma Kalimat Peringatan: sisa gulma dan jerami tidak boleh dibakar
+768,tungau merah,Tetranychus cinnabarinus
+769,"Meningkatkan tinggi tanaman, jumlah cabang, jumlah tandan bunga per tanaman",
+770,"Mningkatkan hijau daun, tinggi tanaman, jumlah akar, diameter buah, dan meningkatkan hasil panen",
+771,"Meningkatkan skala bagan warna daun (tingkat kehijauan), bobot, dan volume akar, anakan produktif per rumpun, jumlah gabah per malai dan hasil per ha tanaman padi.",
+772,"Meningkatkan pertumbuhan, komponen hasil, dan hasil tembakau",
+773,"Meningkatkan tinggi tanaman, jumlah daun, jumlah bunga per tanaman, bobot 10 buah, jumlah buah pertanaman, hasil pertanaman, dan hasil perhektar",
+774,"Meningkatkan tinggi tanaman, jumlah batang per meter juring dan diameter batang, hasil tanaman tebu",
+775,"meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, bobot basah akar, bobot kering akar, volume akar, jumlah buah dan bobot 10 umbi, hasil tanaman",
+776,"Meningkatkan tinggi tanaman, jumlah cabang, perakaran tanaman, bobot 10 umbi, hasil umbi per petak, dan hasil perhektar",
+777,gulma golongan rumput,Setaria pallide-fusca
+778,teki,Eleochariis dulcis
+779,,"meningkatkan pertumbuhan tanaman, komponen hasil, jumlah gabah/malai, hasil gabah/rumpunbobot 1000 butir dan persentase gabah isi"
+780,gulma berdaun lebar,Ludwigia octavalvis
+781,tidak tersedia untuk ekspor,tidak tersedia untuk ekspor
+782,gulma berdaun lebar:,Jussiaea repens
+783,gulma berdaun lebar,Cleome rutidospermum
+784,Nyamuk,Anopheles subpictus
+785,Nyamuk,Anopheles sundaicus
+786,Pakis,Neprolesis bieserata
+787,kutu sisik,Lepidosaphes beckii
+788,penggerek batang,Chilo auricilius
+789,Hama uret,Lepidiota stigma
+790,Semut,Solenopsis geminata
+791,gulma golongan rumput,Digitaria cyliaris
+792,"meningkatkan tinggi tanaman dan jumlah anakan tanaman (3,75 g/ha (30 HST))",
+793,gulma berdaun lebar,Borrena alata
+794,Gulma berdaun sempit,
+795,gulma berdaun lebar,
+796,Meningkatkan pembungaan dan bobot buah,
+797,"Meningkatkan jumlah cabang, jumlah buah/pohon dan jumlah buah /hektar",
+798,Wereng hijau,Nepotettix viriescens
+799,gulma golongan rumput,Echinocloa cruss-galli
+800,gulma golongan rumput,Lephtochloa chinensis
+801,gulma golongan rumput,Lephtocloa chinesis
+802,teki,Fimbrystilis miliacea
+803,Nyamuk,Aedes aegypti (Pengkabutan (ULV):50 ml/ha)
+804,Nyamuk,Anopheles Aconitus (Pengkabutan (ULV):50 ml/ha)
+805,Nyamuk,Anopheles Aconitus (Pengasapan (thermal fogging) :50 ml/ha)
+806,Nyamuk,Aedes Aegypti (Pengasapan (thermal fogging) :50 ml/ha)
+807,Nyamuk,Aedes aegypti (Pengasapan (thermal fogging) :100 ml/ha)
+808,Nyamuk,Anopheles Aconitus (Pengasapan (thermal fogging) :100 ml/ha)
+809,Nyamuk,Aedes aegypti (Pengkabutan (ULV): 100 ml/ha)
+810,Nyamuk,Anopheles Aconitus (Pengkabutan (ULV): 50 ml/ha)
+811,Nyamuk,Culex quenquefasciatus
+812,teki,Frimbristylis littoralis
+813,gulma berdaun lebar,Comelina diffusa
+814,gulma berdaun lebar,Alternantehra philoxeroides
+815,Belalang(2 ml/l),Locusta migratoria
+816,hama penghisap buah,Dasynus piperis
+817,kutu daun,Aphis sp.
+818,Hama (1 ml/l),Phyllocnistis citrella
+819,"Wereng mangga (0,5 ml/l)",Idioscopus sp.
+820,Penggerek pucuk,Heliothis sp.
+821,Kebutuhan Export,Kebutuhan Export
+822,tungau merah,Panonychus citri
+823,penyakit layu,Fusarium oxysporum f.sp. Cepae
+824,gulma berdaun lebar,Synedrelia nodiflora
+825,Tikus pohon,Rattus tiomanicus
+826,penggerek polong,Etiella zickenella
+827,gulma berdaun lebar,Ageratum conyziodes
+828,gulma golongan rumput,Echinochloacrus-galli
+829,,"Mempercepat waktu pembungaan, meningkatkan presentase jumlah malai/tanaman"
+830,gulma berdaun lebar,Althernanthera philoxeroides
+831,ulat grayak,Spodoptera frugiferda
+832,kutu daun,Aphis glycine
+833,penggerek daun,Helicoverpa spp.
+834,penghisap polong,Peizodorus sp.
+835,Penggorok daun,Lyriomiza chinensis
+836,gulma golongan rumput,Cyanodon dactylon
+837,Penyakit lanas,Phytophthora nicotianae
+838,Semut,Anoplelepis gracilipes
+839,Tidak Ada Penggunaan Terdaftar (Pestisida Ekspor),Tidak Ada Penggunaan Terdaftar
+840,gulma berdaun lebar,Commelina spp.
+841,gulma berdaun lebar,Sida sp.
+842,,"Merangsang pertumbuhan, meningkatkan jumlah anakan, panjang malai, jumlah gabah/malai, dan bobot gabah."
+843,penggerek polong,Etiella zinkenella
+844,"meningkatkan komponen hasil, tinggi tanaman dan hasil per hektar",
+845,gulma berdaun lebar,Cleomo rutidosperma
+846,gulma golongan rumput,Axonoplus compressus
+847,gulma berdaun lebar,Euphorbia geniculata
+848,hama penggulung daun,Lamprosemma indicata
+849,Pakis,Nephrolepis pallutris
+850,penyakit gugur daun,Colletotrichum gloeosporoides
+851,Penyakit tepung palsu,Plasmophara viticola
+852,gulma berdaun lebar,Melastoma malabatrichum
+853,gulma golongan rumput,Pennissetum polystachion
+854,gulma berdaun lebar,Monochora vaginalis
+855,gulma berdaun lebar,Altenanthera philoxeroides
+856,gulma berdaun lebar,Euphorbia prunifolia
+857,gulma golongan rumput,Echinochloa crus galli
+858,Hama,Sitophillus zeamais
+859,gulma berdaun lebar,Lindernia crustacea
+860,gulma berdaun lebar,Stachitarpheta indica
+861,gulma golongan rumput,Rottboellia cochinchinensis
+862,gulma berdaun lebar,Mikania micrantha 75 - 100 g/ha
+863,gulma berdaun lebar,Commelina benghalensis 75 - 100 g/ha
+864,gulma berdaun lebar,Synedrella nodiflora 75 - 100 g/ha
+865,gulma berdaun lebar,Borreria alata 75 - 100 g/ha
+866,gulma golongan rumput,ottochloa nodosa 75 - 100 g/ha
+867,gulma berdaun lebar,Amaranthus sp.
+868,gulma berdaun lebar,Physalis sp.
+869,gulma berdaun lebar,Lindernia crustacean
+870,gulma berdaun lebar,Nephrolepis biserrata
+871,gulma berdaun lebar,Erechtites sp.
+872,gulma berdaun lebar,Agerantum conyzoides
+873,kepik hijau,Nevara viridula
+874,gulma berdaun lebar,"Borreria alata 1,125 - 2,25 l/ha"
+875,gulma berdaun lebar,"Mikania micrantha 1,125 - 2,25 l/ha"
+876,gulma berdaun lebar,"Clidemia hirta 1,125 - 2,25 l/ha"
+877,gulma golongan rumput,"Paspalum conjugatum 1,125 - 2,25 l/ha"
+878,gulma golongan rumput,"Ottochloa nodosa 1,125 - 2,25 l/ha"
+879,gulma berdaun lebar,Marsilea creanata
+880,Gulma Teki,"Cyperus difformis 1,5 - 2 l/ha"
+881,Gulma Teki,"Fimbristylis miliacea 1,5 - 2 l/ha"
+882,gulma berdaun lebar,"Monochoria vaginalis 1,5 - 2 l/ha"
+883,gulma berdaun lebar,"Ludwigia octovalvis 1,5 - 2 l/ha"
+884,gulma berdaun lebar,"Marsilea crenata 1,5 - 2 l/ha"
+885,gulma golongan rumput,Cyrtoccocum oxyphyllum
+886,teki,Fimbrystylis milicea
+887,gulma golongan rumput,Polytrias amaura
+888,pengggerek padi bergaris,Chillo supresalis
+889,gulma berdaun lebar,Penochloa zeylanica
+890,gulma berdaun lebar,Borreia alata
+891,gulma golongan rumput,Echinocloa crus-galli
+892,gulma golongan rumput,Leptochloa nodosa
+893,gulma berdaun lebar,Mikania sp
+894,gulma berdaun lebar,Mimosa sp
+895,gulma golongan rumput,Digitaria spp.
+896,gulma berdaun lebar,Ageratum cpnyzoides
+897,gulma berdaun lebar,Clidemima hirta
+898,gulma berdaun lebar,Marsila crenata
+899,teki,Cyperus repens
+900,Nyamuk,Anopeles aconitus
+901,gulma golongan rumput,Ischaemum timorensis
+902,gulma berdaun lebar,Erechtites valerianifolia
+903,penyakit blas,Pyricularia sp.
+904,Penyakit bercak daun,Cercospora sp
+905,Siput murbei,Pila ampullacea
+906,gulma golongan rumput,Ishaemum timorensis
+907,Lalat buah,Bactrocera sp.
+908,pengorok daun,Liriomyza haidobrensis
+909,kutu daun,Aphis pomi
+910,Nyamuk,Culex quinquefasciatus Aedes Aegypti
+911,Penyakit antraknosa,Colletrotichum capsici
+912,gulma berdaun lebar,Mersilea Creneta
+913,gulma berdaun lebar,Ipomoea sp
+914,gulma berdaun lebar,"Ageratum conyzoides 1,5 - 3 l/ha"
+915,gulma berdaun lebar,"Borreria alata 1,5 - 3 l/ha"
+916,gulma berdaun lebar,"Mikania micrantha 1,5 - 3 l/ha"
+917,teki,"Fimbristylis miliacea 0,75 - 1,25 l/ha"
+918,gulma berdaun lebar,"Spenochlea zeylanica 0,75 - 1,25 l/ha"
+919,gulma berdaun lebar,"Alternanthera piloxeroides 0,75 - 1,25 l/ha"
+920,gulma berdaun lebar,"Monocharia vaginalis 0,75 - 1,25 l/ha"
+921,gulma berdaun lebar,"Ludwigia octovalvis 0,75 - 1,25 l/ha"
+922,gulma berdaun lebar,"Borreria alata 1,5 - 1,25 l/ha"
+923,gulma berdaun lebar,"Calopogonium mucunoides 1,5 - 1,25 l/ha"
+924,gulma berdaun lebar,"Mikania micrantha 1,5 - 1,25 l/ha"
+925,Nyamuk,Anopheles spp.
+926,Penyakit embun tepung,Oidium haveae
+927,gulma berdaun lebar,"Clidermia hirta 1,5 - 2,5 l/ha"
+928,gulma berdaun lebar,"Borreria alata 1,5 - 2,5 l/ha"
+929,gulma berdaun lebar,"Mikania micrantha 1,5 - 2,5 l/ha"
+930,gulma golongan rumput,"Ischaemum ciliaris 1,5 - 2,5 l/ha"
+931,gulma golongan rumput,"Setaria plicata 1,5 - 2,5 l/ha"
+932,gulma golongan rumput,"Digitaria ciliaris 1,5 - 2,5 l/ha"
+933,gulma golongan rumput,"Ottochloa nodosa 1,5 - 2,5 l/ha"
+934,perusak daun,Plutella xylostela
+935,gulma golongan rumput,Ischaemum timorenses
+936,penggerek buah kako,Canopomorha cramerella
+937,kutu daun,Rhopalosiphum maidis
+938,gulma berdaun lebar,Cromolaena odorata
+939,teki,Cyperus sp.
+940,gulma berdaun lebar,Borreria alata Kalimat peringatan : Sisa gulma dan jerami tidak boleh dibakar
+941,gulma berdaun lebar,Synedrella modiflora
+942,teki,Cyperus kylingga
+943,gulma berdaun lebar,Praxelis clematida
+944,"Meningkatkan tinggi tanaman, meningkatkan jumlah anakan, meningkatkan hasil tanaman",
+945,Semut,Momonorium pharaonis
+946,wereng batang coklat,"Nilaparvata lugens 0,5 ml/l"
+947,hama belalang,"locusta sp. 1,5 ml/l"
+948,gulma golongan rumput,Rootbelia exaltata
+949,gulma berdaun lebar,Ludwigia adscendes
+950,gulma berdaun lebar,Ludwigia octovalivis
+951,gulma golongan rumput,Ottochloa nododa
+952,penyakit rebah kecambah,Phytophthora parasitica
+953,penyakit embun bulu,Pseudoperonspora cubensis
+954,perusak daun,Plutela xylostella
+955,Gulma rumput,Rotbellia exaltata
+956,ulat grayak,Spodoptera litura 1 ml/l
+957,ulat grayak,Spodoptera litura 2 ml/l
+958,Penyakit bercak daun,Cercospora arachidicola Cercospora personata
+959,meningkatkan pertumbuhan dan hasil tanaman cabai merah,
+960,hama gudang,Sitophylus oryzae
+961,ulat api,Thosea sp.
+962,ulat api,Darna trima
+963,ulat kantong,Mahasena corbetti
+964,penyakit embun bulu,Pseudoperonospora cubencis
+965,gulma golongan rumput,Digitaris spp.
+966,penyakit busuk daun,Phytophthrora infestans
+967,Nyamuk,"Culex quinquefasciatus Kalimat peringatan : Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/pest control"
+968,penyakit embun bulu,Peronosprora destructor
+969,--,meningkatkan pertumbuhan dan hasil tanaman
+970,perusak daun,Plusia spp.
+971,gulma berdaun lebar,Ludwigia adcendens
+972,gulma golongan rumput,Phyllanthus niruri 150-200 g/ha
+973,gulma golongan rumput,Brachiaria mutica 200 - 300 g/ha
+974,gulma golongan rumput,Eleusine indica 150-200 g/ha
+975,gulma golongan rumput,Echinochloa colonum 150-200 g/ha
+976,gulma golongan rumput,Rottboelia exaltata 150-200 g/ha
+977,gulma berdaun lebar,Celosia argentea 150 - 200 g/ha
+978,gulma berdaun lebar,Croton hirtus 200 - 300 g/ha
+979,gulma berdaun lebar,Cleome rutidosperma 150 - 200 g/ha
+980,gulma berdaun lebar,Praxelis clematidea 150 - 200 g/ha
+981,gulma berdaun lebar,Ageratum conyzoides 150 - 200 g/ha
+982,gulma berdaun lebar,Richardia brasiliensis 150 - 200 g/ha
+983,gulma berdaun lebar,Calopogonium mucunoides 150 - 200 g/ha
+984,gulma berdaun lebar,Spigelia anthelmia 250 - 300 g/ha
+985,gulma berdaun lebar,Ipomoea triloba 150 - 200 g/ha
+986,gulma berdaun lebar,Commelina benghalensis 250 - 300 g/ha
+987,,"Meningkatkan tinggi tanaman jumlah anakan, jumlah daun, jumlah umbi/ tanaman, bobot/10 umbi, hasil/tanaman dan hasil /ha"
+988,,ACTICIDE IPS 30
+989,kutu sisik merah,Aonidiella aurantii
+990,kutu daun,Aulacophora femoralis
+991,kutu sisik,Lepidosaphes ulmi
+992,Kutu putih,Rastrococcus spinosus
+993,wereng mangga,Idiocerus sp.
+994,nematoda sista kuning,Globodera sp
+995,ulat grayak,Spedoptera litura
+996,Kutu putih,Pseudococcus citri
+997,Kutu tempurung,Coccus viridis
+998,Kutu putih,Pseudococcus lilacinus
+999,Kutu putih,Ferrisia virgata
+1000,,"meningkatkan jumlah tunas (flush) bunga, jumlah bunga per tanaman, mempercepat kemunculan bunga, serta meningkatkan jumlah buah"
+1001,Ulat Penggulung Pucuk,Laspeyresia leucostoma
+1002,Penggorok daun,Phylocnistis Citrella
+1003,hama gudang,Sitophilus spp
+1004,gulma berdaun lebar,Mikania michranta
+1005,gulma golongan rumput,Dactyloctenium aegyptum
+1006,gulma berdaun lebar,Ludwigia hyssophyfolia
+1007,gulma berdaun lebar,Fimbristyillis litoralis
+1008,penyakit hawar pelepah,Rhizoctoria solani
+1009,gulma berdaun lebar,Calopogonium caeruleum
+1010,gulma golongan rumput,Ishameum timorens
+1011,wereng batang cokelat,Nilaparvata Iugens
+1012,Lalat bibit,Agromyza sp
+1013,Lalat daun,Hydrellia sp
+1014,Penyakit busuk buah,Phythophthora palmivora
+1015,Wereng coklat,Nilavarvata lugens
+1016,hama trips,Thrips spp.
+1017,"Mempercepat pecahnya dormansi tunas, meningkatkan pembungaan, pembentukan buah dan jumlah pentil buah",
+1018,Penyakit busuk,kuncup Fusarium spp.
+1019,gulma golongan rumput,Imperata cylindica
+1020,gulma golongan rumput,Echinochloacruss-galli
+1021,tidak tersedia untuk bahan teknis,tidak tersedia untuk bahan teknis
+1022,Rayap kayu kering,Cyptotermes cynocephalus
+1023,Gulma rumput,Brachiaria nuticum
+1024,gulma berdaun lebar,Centrocema pubescens
+1025,gulma berdaun lebar,Synedrela nodiflora
+1026,larva nyamuk,Culex quinqeufascatus
+1027,gulma berdaun lebar,Galinsoga parviflora
+1028,Penyakit bercak daun,Cercospora canescens
+1029,Penyakit karat,Puccinia horiana
+1030,,meningkatkan produksi lateks dan kadar karet kering
+1031,gulma berdaun lebar,Sagittaria trifolia
+1032,Penyakit gosong palsu,Ustilaginoidea virens
+1033,Penyakit jamur upas,Corticium salmonicolor
+1034,mencegah tunas pada kentang (menghambat pertunasan),mencegah tunas pada kentang
+1035,gulma golongan rumput,Echinochloa spp.
+1036,kecoak,Blattella germanica
+1037,Penyakit antarknosa,Gleosporium gleosporioides
+1038,teki,Fimbrisylis miliacea
+1039,gulma berdaun lebar,Marsilea crenata 0.75 - 1.50 l/ha
+1040,gulma berdaun lebar,Monochoria vaginalis 0.75 - 1.50 l/ha Peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1041,gulma berdaun lebar,Ludwigia octovalvis 0.75 - 1.50 l/ha
+1042,teki,Fimbristylis miliacea 0.75 - 1.50 l/ha
+1043,teki,Eleocharis afflata
+1044,gulma golongan rumput,Digitaria longiflora
+1045,Hama Lalat Daun,Hydrellia philipina
+1046,Hama ganjur,Orseolia oryzae
+1047,penggerek batang,Tryporiza incertulas
+1048,pengorok daun,Phyllocnitis critrella
+1049,Kutu daun aphid,Toxoptera citricida
+1050,,"meningkatkan komponen pertumbuhan (jumlah anakan), komponen hasil (bobot 100 biji) dan hasil"
+1051,-tidak ada,glyphosate-isopropyl amonium
+1052,gulma berdaun lebar,Cleome rutidospermas
+1053,gulma berdaun lebar,Praxelis clematidae
+1054,gulma berdaun lebar,Philantus niruri
+1055,hama trips,Scirtothrips dorsalis
+1056,penyakit akar gada,Plasmodiophora brassicae
+1057,hama bubuk kayu kering,Lyctus bruneus
+1058,Rayap tanah,Coptothermes gestroi
+1059,,Aedes aegypti Anopheles sp.
+1060,gulma golongan rumput,"Leptochloa chinensis 0,75 - 1,5 l/ha"
+1061,gulma berdaun lebar,"Ludwigia octovalvis 0,75 - 1,5 l/ha Kalimat peringatan : Sisa gulma dan jerami tidak boleh dibakar"
+1062,gulma berdaun lebar,"Monochoria vaginalis 0,75 - 1,5 l/ha"
+1063,"gulma golongan rumput (1,125 - 1,5 kg/ha )",Digitaria ciliarsis
+1064,"gulma berdaun lebar (1,125 - 2,625 kg/ha )",Cleome rutidosprema
+1065,,Meningkatkan produksi lateks kering dan merangsang keluarnya lateks pada area penyadapan atau area sensitif
+1066,gulma berdaun lebar,Ageratum conyzoide
+1067,Penyakit antraknosa,Colleotrichum sp.
+1068,ulat krop,Crocidolomia binotalis
+1069,Penggerek pucuk,Scirpophaga nivela
+1070,,"Meningkatkan tinggi tanaman jumlah cabang, jumlah bunga, hasil/tanaman, hasil/petak dan hasil/ha"
+1071,gulma berdaun lebar,Borreria sp
+1072,penggerek buah,Tirathaba rufivena
+1073,Wereng coklat,Nilapavarta lugens
+1074,gulma berdaun lebar,Rhicardia brasiliensis
+1075,nematoda sista kuning,Globodera rostochiensis
+1076,teki,Fimbristylis milliacea
+1077,teki,Fimbristilis miliacea
+1078,,"meningkatkan bobot umbi, hasil/tanaman, hasil/petak, hasil/ha"
+1079,teki,Cyperus juncoides
+1080,gulma golongan rumput,Echinochloa crusgalii
+1081,gulma golongan rumput,Echinochloa cruss-galii
+1082,memperbanyak daun,Seledri
+1083,teki,Fimbristylis milicea
+1084,gulma golongan rumput,Ottchloa nodosa
+1085,"meningkatkan tinggi tanaman jumlah daun, jumlah anakan, jumlah umbi pertanaman, bobot umbi kering pertanaman, bobot umbi basah perpetak, bobot umbi kering perpetak","meningkatkan tinggi tanaman jumlah daun, jumlah anakan, jumlah umbi pertanaman, bobot umbi kering pertanaman, bobot umbi basah perpetak, bobot umbi kering perpetak"
+1086,hama gudang,Tribolium confusum
+1087,hama gudang,Oryzaephilus surinamensis
+1088,kutu daun,Myzus sp.
+1089,Pengisap bunga,Diplogomphus hewitti
+1090,ulat jengkal,Plusia sp
+1091,ulat jengkal,Chrysodeixis chalcites
+1092,perusak daun,Phaedonia sp.
+1093,ulat grayak,Spodoptera fungiperda
+1094,Penggerek pucuk,Heliothis assulta
+1095,Bubuk buah,Lophobaris piperis
+1096,gulma berdaun lebar,Borreria alata Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1097,tidak ada (Tetap ulang Bahan Teknis,
+1098,gulma berdaun lebar,Ludwigia palustris
+1099,meningkatkan volume lateks dan kadar karet kering,
+1100,"gulma berdaun lebar, gulma golongan rumput, teki","Hyptis brevipes, Ludwigia hyssopifolia, Paspalum commersonii, Setaria pallide-fusca, Fimbristylis miliacea"
+1101,teki,"Cyperus iria 1,5 - 2,5 l/ha1,5 - 2,5"
+1102,kecoak,Blatella germanica (0.3 g/m2 (pengenceran 120–150 kali))
+1103,kecoak,Periplaneta americana (0.3 g/m2 (pengenceran 120–150 kali))
+1104,Semut,Anoplolepis gracilipes (0.13 g/m2 (pengenceran 300 - 400 kali))
+1105,Lalat,"Musca domestica (0,5 g/m2 (pengenceran 200–250 kali))"
+1106,Nyamuk,Aedes aegypti Culex quinguesfasciatus
+1107,kecoak,Blatella germanica Periplaneta americana
+1108,Penyakit bakteri busuk basah,Erwinia carotovara
+1109,penyakit hawar daun bakteri,Xanthomonas oryzae pv. Oryzae
+1110,gulma berdaun lebar,Peperomia pelucida
+1111,gulma berdaun lebar,Synedrella nodyflora
+1112,gulma berdaun lebar,Ruellia tuberosa
+1113,Untuk merangsang keluarnya lateks,
+1114,Wereng coklat,"Nilaparvata lugens (0,25 - 0,5 kg/ha"
+1115,"Meningkatkan jumlah tunas baru, jumlah bunga dan jumlah buah (Penyemprotan volume tinggi: 0.5 - 1 mg/l)",
+1116,"Meningkatkan tinggi tanaman, jumlah anakan, jumlah anakan produktif, jumlah gabah/malai, hasil gabah/tanaman dan hasil gabah/ha (Perendaman benih: 0,3 g/10 l air)",
+1117,gulma berdaun lebar,Ageratum conyzoides 2 - 3 kg/ha
+1118,gulma golongan rumput,Setaria plicata 2 - 3 kg/ha
+1119,gulma golongan rumput,Paspalum conjugatum 1 - 2 kg/ha
+1120,gulma berdaun lebar,Ageratum conyzoides 1 - 2 kg/ha
+1121,,"meningkatkan jumlah rangkaian bunga, jumlah buah per tangkai, bunga per tangkai, buah per tanaman, bobot per buah, bobot buah per tanaman, bobot buah per plot, dan potensi hasil"
+1122,Penyakit bercak daun,Curvularia maculans Pestalotiopsis palmarum
+1123,"Penyakit gugur daun (2,5 ml/l)",Pestalotiopsis sp.
+1124,Penyakit karat daun (1 ml/l),Phakospora pachyrhizi
+1125,"Penyakit antraknosa (0,5 ml/l)",Colletotricum capsici
+1126,gulma golongan rumput,"Ischaemum timorense 1,5 - 2 l/ha)"
+1127,gulma golongan rumput,"Ottochloa nodosa 1,5 - 2 l/ha)"
+1128,,"meningkatkan tinggi tanaman, jumlah umbi/tanaman, bobot umbi, hasil/tanaman, hasil/petak, hasil/ha"
+1129,gulma golongan rumput,Ischaemum timurense
+1130,teki,Fimbristylis millacea
+1131,,"meningkatkan pertumbuhan tanaman, meningkatkan produksi dan hasil tanaman, meningkatkan komponen hasil/ha"
+1132,gulma berdaun lebar,Eclipta prostata
+1133,nyamuk vektor malaria,"Culex quinquefasciatus (0,2 g/m2) Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/ pest control"
+1134,gulma berdaun lebar,Commelina divusa
+1135,gulma berdaun lebar,Melastoma malabutrichum
+1136,Gulma daun lebar,Syachytarpheta indica
+1137,penyakit blendok,Phytophthora citrophthora
+1138,Penyakit bulai,Perenospora maydis
+1139,gulma berdaun lebar,Spenochlea zerlanica
+1140,gulma berdaun lebar,Colopogonium muconoides
+1141,gulma berdaun lebar,Ipomia triloba
+1142,gulma berdaun lebar,Ludwegia octovalvis
+1143,nematoda puru akar,Meloidogyne sp.
+1144,penggerek batang,Chillo sacchariphagus
+1145,gulma berdaun lebar,Ludwigia perrennis
+1146,hama penghisap buah,Diconocoris hewetti
+1147,ulat buah,Helicoverpa amigera
+1148,"Meningkatkan jumlah anakan, jumlah umbi per rumpun, bobot umbi per rumpun dan bobot umbi per petak",
+1149,Meningkatkan pembungaan dan pembentukan buah,
+1150,"Meningkatkan jumlah anakan dan warna daun, jumlah anakan produktif, panjang malai, jumlah bobot 1000 butir, bobot gabah ubinan dan gabah per hektar, meningkatkan persentase gabah isi dan menurunkan persentase gabah hampa",
+1151,penggerek buah pucuk (1 ml/l),Helicoverpa sp.
+1152,ulat kilan,Hyposidra talaca
+1153,"Meningkatkan bobot biomass, panjang malai, jumlah gabah/malai dan bobot gabah ubinan","57,14 ml/ha,"
+1154,"meningkatkan tinggi tanaman, meningkatkan jumlah daun, meningkatkan panjang dan lebar, warna daun, dan bobot kering pipilan, meningkatkan diameter batang, meningkatkan bobot tongkol ubinan, meningkatkan bobot 100 butir jagung","2 ml/14 l air,"
+1155,meningkatkan pembentukan buah,300 ml/ha
+1156,"meningkatkan jumlah tunas, bunga, jumlah bunga, jumlah buah per tanaman, dan mempercepat waktu keluarnya bunga",
+1157,"""Membantu mempercepat pembungaan, "" memperbanyak bunga serta biji buah sehingga lebih besar bulat dan tidak mudah rontok",
+1158,Nyamuk,Aedes aegyptii
+1159,gulma berdaun lebar,Brachiaria gangetica
+1160,gulma golongan rumput,Digitaris ciliaris
+1161,penyakit busuk akar,Pythium spp
+1162,gulma golongan rumput,Cyrtococcum acrescene
+1163,"meningkatkan tinggi tanaman, jumlah daun, panjang tongkol, bobot tongkol (g), bobot tongkol + klobot (g), hasil/tanaman, hasil/petak, hasil/ha",
+1164,"meningkatkan jumlah gabah per malai, hasil gabah per rumpun, hasil ubinan, hasil per hektar, bobot 1000 butir, persentase gabah isi, dan rendemen beras giling",
+1165,meningkatkan jumlah tunas dan panjang tunas,
+1166,gulma berdaun lebar,Ludwigia octovalvis Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1167,gulma berdaun lebar,Commelina sp.
+1168,Gulma kayuan,Meremia umbelata
+1169,gulma berdaun lebar,Calopogonium sp.
+1170,Mematikan tunggul tanaman (50 - 100 ml/l),
+1171,penggerek polong,Etiella zicnkenella
+1172,Pakis,Equisetum debile
+1173,gulma berdaun lebar,Commelina spp
+1174,gulma berdaun lebar,Salvinia molesta
+1175,teki,Frimbristylis miliacea
+1176,gulma berdaun lebar,Ludwigia perrenis
+1177,teki,Fimbrystillis millicea
+1178,Produk ini didaftarkan untuk keperluan ekspor dan tidak didaftarkan untuk keperluan dalam negeri.,Produk ini didaftarkan untuk keperluan ekspor dan tidak didaftarkan untuk keperluan dalam negeri.
+1179,serangga penyerbuk,Elaeidobius kamerunicus
+1180,penggulung daun,Sterpsicrates macropetana
+1181,gulma berdaun lebar,Philatus niruri
+1182,,"meningkatkan bobot 10 umbi, hasil/tanaman basah, hasil/tanaman kering, hasil/petak"
+1183,gulma berdaun lebar,Erechtites sp
+1184,gulma berdaun lebar,Oxalis barrelieri
+1185,gulma berdaun lebar,Stachytarpheta jamaicensis
+1186,gulma berdaun lebar,Ageratum conyzoides (2 l/ha) Alternanthera piloxeroides (2 l/ha) Alternanthera sesilis (2 l/ha) Asystasya intrusa (2 l/ha) Bidens pilosa (2 l/ha) Borreria alata (2 l/ha) Cleome rutidosperma (2 l/ha) Synedrella nodiflora (2 l/ha) Kalimat peringatan: Sisa
+1187,Lalat buah,Bactrocera spp
+1188,"mempercepat tinggi tanaman, meningkatkan jumlah anakan, meningkatkan panjang malai, meningkatkan jumlah gabah/malai, meningkatkan bobot 1000 butir",
+1189,Penyakit embun tepung,Oidiopsis sp.
+1190,Lalat bibit,Altherigona exigua
+1191,gulma berdaun lebar,Momordica charantia
+1192,gulma berdaun lebar,Synedrella nudiflora
+1193,Rayap tanah,"Coptotermes curvignathus (0,05% atau 5 l/m2))"
+1194,hama tungau,Panonychus ulmi
+1195,Tungau kuning,Polypagotarsonemus latus
+1196,tungau merah,Tentranichus sp.
+1197,teki,Cyperus kylinggia
+1198,gulma berdaun lebar,Hedyotis corymbosa
+1199,gulma berdaun lebar,Heliotropium indicum
+1200,Siput trisipan,Cerithidea angulata
+1201,gulma berdaun lebar,Sida rhombifolia
+1202,hama kutu daun,Neotoxoptera formosana
+1203,penyakit embun bulu,Peronosclerospora cubensis
+1204,penyakit busuk tongkol,Diplodia maydis
+1205,,"Meningkatkan produksi lateks/tanaman, kadar karet kering, produksi karet kering per tanaman"
+1206,teki,Cyperus difformis (2 - 3 l/ha) Kalimat peringatan: Sisa jerami jangan dibakar
+1207,penyakit busuk daun,Peronospora destrutor
+1208,penyakit embun jelaga,Capnodium sp.
+1209,gulma golongan rumput,"Paspalum conjugatum 1,5 - 2 l/ha"
+1210,gulma golongan rumput,"Ischaemum timorense 1,5 - 2 l/ha"
+1211,gulma berdaun lebar,"Chromolaena odorata 1,5 - 2 l/ha"
+1212,gulma berdaun lebar,"Borreria alata 1,5 - 2 l/ha"
+1213,gulma berdaun lebar,"Clidemia hirta 1,5 - 2 l/ha"
+1214,gulma berdaun lebar,"Mikania micrantha 1,5 - 2 l/ha"
+1215,gulma berdaun lebar,Borreria spp
+1216,gulma berdaun lebar,Calopogoium caeruleum
+1217,gulma berdaun lebar (2 - 3 l/ha),Borreria spp.
+1218,Belalang,Valanga nigricornis
+1219,Gulma berdaun sempit,Otokloa nodosa
+1220,Gulma berdaun sempit,Btachiaria mutica
+1221,gulma berdaun lebar,Ageratum conyzoldes
+1222,gulma berdaun lebar,Chromolsena odorata
+1223,gulma berdaun lebar,Diodia sarmentosa Euphorbia hirta
+1224,teki,Cyperus digitatus
+1225,gulma golongan rumput,Ischaemum ciliare
+1226,Tetap ulang bahan teknis,Tetap ulang bahan teknis
+1227,Tikus rumah,Rattus tanezumi
+1228,gulma golongan rumput,Echinochlia cruss-galli
+1229,teki,Fimbritylis milicea
+1230,gulma golongan rumput,Leptochloa cinensis
+1231,gulma berdaun lebar,Crasscephalum sp.
+1232,gulma berdaun lebar,Erigon sumatrensis
+1233,gulma berdaun lebar,Stenochloaena palustris
+1234,gulma golongan rumput,Digitaria spp
+1235,teki,Eleocharis dulccis
+1236,teki,Cyperus spp
+1237,,Ratus tiomaniccus
+1238,gulma berdaun lebar,Stenochlaena sp.
+1239,gulma berdaun lebar,Voulenteer Acacia
+1240,Lalat buah,Bactrocera tryoni
+1241,Nyamuk,"Anopheles sp. Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/ pest control"
+1242,,Terbutryn
+1243,,2(2-Butoxyethoxy) ethanol
+1244,Penyakit busuk batang dan akar,Ganoderma
+1245,gulma berdaun lebar,Oplismenus hirtellus
+1246,Penyakit antraknosa,Collectotricum capsici
+1247,"meningkatkan tinggi tanaman, jumlah anakan, jumlah anakan produktif, jumlah gabah per malai, hasil pertanaman, hasil ubinan, hasil/hektar",
+1248,"meningkatkan hasil produksi, jumlah gabah per malai, gabah per rumpun, gabah per malai, kadar rendemen gabah, mengurangi hampa per gabah, per malai/rumpun",
+1249,"meningkatkan tinggi tanaman, jumlah daun pertanam, panjang daun, lebar daun, bibit per tongkol dan bobot tongkol per petak",
+1250,gulma berdaun lebar,Diodia sarmantosa
+1251,gulma berdaun lebar,Phyllanthus amarus
+1252,,Meningkatkan pembungaan tanaman dan pembentukan buah
+1253,Penggerek Buah Kopi,Hypothenemus hampeii
+1254,Meningkatkan komponen pertumbuhan hasil,
+1255,gulma berdaun lebar,Elautetranthera ruderalis
+1256,gulma golongan rumput,Ishcaemum timorense
+1257,Penyakit bercak daun,Stigmina mangifera
+1258,teki,Cyperus diffornis
+1259,gulma berdaun lebar,Borerria latifolia
+1260,gulma berdaun lebar,Ageratum sp.
+1261,gulma berdaun lebar,Agerantum sp.
+1262,"meningkatkan pertumbuhan tanaman padi, meningkatkan komponen produksi, meningkatkan produksi bobot gabah dan ubinan, meningkatkan mutu hasil",
+1263,kutu daun,Rhopalosiphum maydis
+1264,penyakit busuk batang,Sclerotinia sp.
+1265,gulma berdaun lebar,Commelina benghalensis Celosia argentea Cleome rutidosperma Digitaria sp. Richardia brasiliensis
+1266,gulma golongan rumput,Ottochloa artoniana
+1267,Nyamuk,"Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/Pest Control"
+1268,gulma berdaun lebar,Ageratum conyzoides Calopogonium muconoides Mikania micrantha
+1269,gulma golongan rumput,Ottochola nodosa
+1270,penggerek polong,Etilella zinckenella
+1271,Siput trisipan,Cerithidea sp
+1272,Belalang,Patanga succincta
+1273,semut api,Selenopsis germinata
+1274,"Gulma berdaun lebar (1,5 - 3 l/ha)",Asytasia gangetica
+1275,penggerek batang,Ostrinia nubilalis
+1276,gulma berdaun lebar,Ipomeae tribola
+1277,gulma golongan rumput,schaemum timorense
+1278,gulma berdaun lebar,Alternanthera sp
+1279,hama gudang,Rhizopertha dominica
+1280,Wereng hijau,Nephotettix sp.
+1281,tungau merah,Tetranychus urticae
+1282,Lalat pucuk,Melanagromyza sojae
+1283,gulma golongan rumput,Anoxopus compressus
+1284,gulma berdaun lebar,Borreria alata 1.5 - 3 l/ha
+1285,gulma berdaun lebar,Synedrella nodiflora 1.5 - 3 l/ha
+1286,gulma golongan rumput,Axonopus compressus 1.5 - 3 l/ha
+1287,gulma berdaun lebar,Borreria alata 3 - 4.5 l/ha
+1288,gulma berdaun lebar,Ageratum conyzoides 3 - 4.5 l/ha
+1289,gulma berdaun lebar,Chromolaena odorata 3 - 4.5 l/ha
+1290,gulma berdaun lebar,Borreria alata 1.5 - 2.5 l/ha
+1291,gulma berdaun lebar,Ageratum conyzoides 1.5 - 2.5 l/ha
+1292,Golongang rumput,Ottochloa nodosa 1.5 - 2.5 l/ha
+1293,gulma berdaun lebar,Trianthema portulacastrum
+1294,kutu kebul,Bemicia tabaci
+1295,gulma golongan rumput,Ishchaemum timorense
+1296,gulma berdaun lebar,Wedelia triloba
+1297,gulma golongan rumput,Commelina sp
+1298,embun tepung,Oidiospora sp.
+1299,gulma berdaun lebar,Praxelis clematica
+1300,gulma berdaun lebar,Euphorbia corchorifolia
+1301,gulma berdaun lebar,Emilia soncifolia
+1302,ulat grayak,Spodoptra exigua
+1303,gulma golongan rumput,Echinochloa cussgali
+1304,gulma berdaun lebar,Spenoclea zeylanica
+1305,Nyamuk,"Aedes aegypti (0,5 ml/9 ml air (500 ml larutan/ha))"
+1306,Nyamuk,"Culex quinquefasciatus (0,5 ml/9 ml air (500 ml larutan/ha))"
+1307,Lalat,Musca domestica (2 ml/9 ml air (500 ml larutan/ha))
+1308,Lalat,Musca domestica (1 ml/99 ml air (10 l larutan/ha))
+1309,Nyamuk,"Culex quinquefasciatus (0,5 ml/99 ml air (10 l larutan/ha))"
+1310,Nyamuk,"Aedes aegypti (0,5 ml/99 ml air (10 l larutan/ha))"
+1311,gulma berdaun lebar,Ageratum houstorianum
+1312,Nyamuk,Culex quinquefasciqtus
+1313,Nyamuk,Culex quinquefasciatus (Pengasapan (Thermal fogging): 20 ml/5 l solar)
+1314,Nyamuk,"Aedes sp. (Pengasapan (Thermal fogging) : 20 ml/5 l solar) Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/pest control"
+1315,penyakit blas,Pyricularia orizae
+1316,ulat grayak,Mythimna separata
+1317,gulma berdaun lebar,Sida spp.
+1318,Tikus bangunan,Rattus rattus diardil
+1319,gulma berdaun lebar,Oldenlandia sp.
+1320,Penyakit bercak daun,Helminthosporium sp.
+1321,"Meningkatkan jumlah anakan, hasil ubinan, dan hasil per hektar",
+1322,"Gulma berdaun lebar (1,25 - 1,75 l/ha)",Alternantera philoxoides
+1323,ulat grayak,Spodoptera exigua 750 ml/ha
+1324,Pengisap polong,Riptortus linearis 750 ml/ha
+1325,Pengisap buah,"Helopeltis antonii 0,125 ml/l"
+1326,perusak daun,Plutella xylostella 0.5 - 1 ml/l
+1327,ulat krop,Crocidolomia pavonana 2 ml/l
+1328,kutu daun,Myzus persicae 125 ml/ha
+1329,hama trips,Thrips parvispinus 125 ml/ha
+1330,teki,Cyperus kylingia
+1331,gulma golongan rumput,Oxalis barrillieri
+1332,gulma golongan rumput,Oplismenus compositus
+1333,gulma berdaun lebar,Commelina nodiflora
+1334,gulma berdaun lebar,Monochoria aginalis
+1335,gulma berdaun lebar,Lindernia crustasea
+1336,jamur biru,Diplodia sp.
+1337,gulma berdaun lebar,Passiflora foetida
+1338,gulma golongan rumput,"Eleusine indica (1,5 - 2 l/ha)qaAS"
+1339,Keperluan Ekspor,Keperluan Ekspor
+1340,penyakit hawar daun,Helminthoporium turcicum
+1341,kecoak,Blattela germanica
+1342,gulma berdaun lebar,Portulaca olaracea
+1343,Penyakit bulir kotor,Dirty panicle
+1344,Penyakit embun tepung,Podosphaera xantii
+1345,kutu daun/kutuputih,Dysmicoccus sp.
+1346,walang sangit,Leptocorisa orotarius
+1347,Memperpendek masa dormansi (mempercepat pertunasan),
+1348,gulma berdaun lebar,Alternanthera caracasana
+1349,gulma berdaun lebar,Portulaca sp.
+1350,,"meningkatkan tinggi tanaman, jumlah anakan, jumlah anakan produktif, panjang malai, jumlah gabah/malai, hasil gabah basah dan kering/tanaman dan hasil gabah basah (GKP) dan gabah kering (GKG)/ha."
+1351,Semut,Anoplolepsis gracillipes
+1352,Pnyakit layu,Fusarium sp.
+1353,Siput,Filicaulis bleekeri
+1354,Siput,Parmarion pupillaris
+1355,Penyakit pembuluh kayu Vascular Streak Dieback (VSD),Oncobasidium theobromae
+1356,nematoda,Meloidogyne spp.
+1357,gulma golongan rumput,Ottochloa arnottiana
+1358,Gulma golongan rumput (1.5 - 2 l/ha),Crytococcum patens
+1359,Penyakit karat,Phakopsora pachyrizi
+1360,Penyakit antraknosa,Colletothricum sp.
+1361,Wereng hijau,Nephotetix sp.
+1362,"meningkatkan tinggi tanaman, jumlah cabang, jumlah buah, bobot buah dan hasil buah cabai.",
+1363,gulma berdaun lebar,Ipomoea sp.
+1364,gulma golongan rumput,Echinochla crus-galli
+1365,gulma berdaun lebar,Rotalia indica
+1366,ulat grayak,Spodoptera exiqua
+1367,gulma berdaun lebar,Borreria sp.
+1368,teki,Eleucharis dulcis
+1369,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk keperluan ekspor,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk keperluan ekspor
+1370,hama trips,Scirtothrips sp.
+1371,gulma berdaun lebar,Cleome ruditosperma
+1372,Kecoa,Blatela germanica
+1373,gulma berdaun lebar,Stachytarpetha jamaicensis
+1374,Penyakit karat daun,Puccinia arachidis
+1375,Semut,Tapinoma melanocephalum
+1376,,5-Chloro - 2 Methyl - 4 Isothiazolin -3 one & 2 methyl -2H - Isothiazol - 3 One
+1377,ulat krop,Croccidolomia binotalis
+1378,Semut,Ponera sp.
+1379,kutu anjing,Rhipicephalus sanguineus
+1380,kecoak,Blatella germanica Periplanetta americana
+1381,meningkatkan luas daun dan bobot segar daun,
+1382,Semut,Solenopsis spp.
+1383,gulma berdaun lebar,Cuphea carthagenensis
+1384,"Meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, jumlah umbi hasil, baik hasil/ tanaman maupun hasil/ha",
+1385,gulma berdaun lebar,Ageratum conzoydes
+1386,gulma golongan rumput,Digitaria ciliaris Eleusine indica
+1387,gulma berdaun lebar,Hyptis brevifes
+1388,gulma berdaun lebar,Ageratum haustorianum
+1389,gulma berdaun lebar,Jusiaea repens
+1390,gulma berdaun lebar,Asystasia intusa
+1391,gulma golongan rumput,"Fimbristylis miliacea (1 - 1,5 l/ha) Kalimat peringatan: Sisa jerami tidak boleh dibakar"
+1392,Penyakit antraknosa,Colletotrichum spp
+1393,hama thrips,Thrips palmi.
+1394,"meningkatkan jumlah gabah per malai, per rumpun dan meningkatkan kadar rendemen gabah, mengurangi kadar hampa gabah per malai/rumpun",
+1395,gulma berdaun lebar,Calapogonium sp.
+1396,gulma berdaun lebar,Monochorea vaginalis
+1397,Untuk Ekspor,Untuk Ekspor
+1398,gulma berdaun lebar,Sphenocholea zeylanica
+1399,gulma berdaun lebar,Cleome asyera
+1400,"meningkatkan produksi lateks, dan kadar karet kering",
+1401,gulma berdaun lebar,Borrelia alata
+1402,Meningkatkan produksi lateks,
+1403,penghisap buah,Helopelthis sp.
+1404,Meningkatkan produksi lateks dan produksi karet keringring karet dan kadar karet kering (KKK),
+1405,ulat tanah,Agrotis epsilon
+1406,"mengurangi pertumbuhan tunas samping, meningkatkan hasil/pertanaman (g), hasil/petak (g)",
+1407,gulma berdaun lebar,Grassocephalum crepidiode
+1408,pengorok daun,Liriomyza huidobrensism
+1409,penyakit hawar pelepah,Rhizoctonia oryzae
+1410,Tikus Ladang,Rattus exulans
+1411,,memperbaiki rasa dan aroma serta mempercepat masaknya buah
+1412,,memperbaiki fertilitas
+1413,,mempercepat pembungaan
+1414,,mempercepat masaknya daun
+1415,,mempercepat masaknya buah
+1416,,"memerahkan,memperbaiki rasa dan aroma serta mempercepat masaknya buah"
+1417,Lalat bibit,Atherigona sp
+1418,Lalat bibit,Melanagromyza sp.
+1419,nematoda sista kuning,Globodera sp.
+1420,Nyamuk,"Aedes aegypti 2,5 ml/1000 m3"
+1421,Nyamuk,"Culex quinquefasciatus 2,5 ml/1000 m3 Kalimat peringatan: Tidak boleh digunakan oleh perorangan Hanya digunakan oleh petugas Dinas Kesehatan atau Pest Control"
+1422,Nyamuk,"Culex quinquefasciatus 2,5 ml/1000 m3"
+1423,Lalat,Musca domestica 50 ml/ha
+1424,Lalat,"Musca domestica 2,5 ml1000 m3"
+1425,Nyamuk,Aedes aegypti 50 mlha
+1426,Nyamuk,Culex quinquefasciatus 50 mlha
+1427,penggerek batang,Phragmataecia castaneae
+1428,Hama Lundi,Holotrichia helleri
+1429,Pengerek batang,Chillo aurillius
+1430,ulat buah,Heclicoverpa armigera
+1431,Penghisap daun (1 ml/l),Empoasca spp.
+1432,"kutu daun (0,250 ml/l)",Aphids sp.
+1433,"Wereng kapas (0,2 ml/l )",Sundapteryx biguttulla
+1434,gulma golongan rumput,Digitaria termata
+1435,gulma berdaun lebar,Richardia brassiliensis
+1436,kutu daun,Myzuz persicae
+1437,"meningkatkan tinggi tanaman, jumlah anakan, dan jumlah daun",
+1438,teki,Fimbrystylis milicea Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1439,gulma golongan rumput,Crytococcum oxyphyllum
+1440,teki,Cyperus killingia
+1441,gulma berdaun lebar,Achyranthes indica
+1442,gulma berdaun lebar,Tetracera adscendens
+1443,Kutu putih,Planococcus spp.
+1444,gulma golongan rumput,"Setarai plicata 0,75 - 1,5 l/ha"
+1445,gulma golongan rumput,"Ischaemum timorense 0,75 - 1,5 l/ha"
+1446,gulma berdaun lebar,"MIkania micrantha 0,75 - 1,5 l/ha"
+1447,Penyakit bercak daun (2 g/l),Cercospora sajina
+1448,"Penyakit bercak daun (1,5 g/l)",Cercospora cruenta
+1449,Lalat,Musca domestica.
+1450,gulma golongan rumput,Rottbelia cochinchinensis
+1451,gulma berdaun lebar,Euphorbia heterophilla
+1452,gulma berdaun lebar,Brachiaria reptans
+1453,kutu daun,Aphid sp.
+1454,penyakit hawar daun,Phytophthora infestan
+1455,gulma golongan rumput,Lephtocloa chinensis
+1456,gulma berdaun lebar,Ludwigia octovalvis Monochoria vaginalis Spenochlea zeylanica
+1457,gulma berdaun lebar,Lugwigia adscendens
+1458,gulma berdaun lebar,Amaranthus spinosum
+1459,Meningkatkan keluarnya lateks,
+1460,teki,Eleocharis dulcis Kalimat peringatan: Sisa jerami tidak boleh dibakar
+1461,gulma golongan rumput,Echinochloa crus- galli
+1462,gulma berdaun lebar,Trianthema monogyna
+1463,tungau merah,Tetranycus urticae
+1464,gulma berdaun lebar,Neprholepsis bisserata
+1465,gulma berdaun lebar,Oxalis barrielli
+1466,teki,Fimbristilys miliacea
+1467,penyakit busuk batang,Helminthosporium sigmoidum
+1468,Penyakit bercak daun,Pestalotiopsis palmarum
+1469,Penyakit bercak daun,Stigmina mangifarae
+1470,Penyakit karat daun,Uromyces sp.
+1471,,"mepercepat perubahan warna buah, kekerasan buah, dan aroma"
+1472,teki,Cyperus iria Kalimat Peringatan: sisa gulma dan jerami tidak boleh dibakar
+1473,Siput murbei,Pomacea caniculata
+1474,gulma berdaun lebar,Euphorbia pronifolia
+1475,teki,Dactyloctenium aegypitum
+1476,gulma berdaun lebar,Borreria alata Cleome rutidosperma Richardia brasiliensis
+1477,penyakit busuk pangkal batang,Phytophora capsici
+1478,Penyakit busuk buah,Phythopthora palmivora
+1479,,Mempercepat pembungaan dan meningkatkan jumlah bunga
+1480,Penyakit bercak daun coklat,Helminthosporium oryzae
+1481,gulma berdaun lebar,Mikania micrantha 1 - 2 l/ha
+1482,gulma berdaun lebar,Ageratum conyzoides 1 - 2 l/ha
+1483,gulma berdaun lebar,Commelina diffusa 1 - 2 l/ha
+1484,gulma berdaun lebar,Borreira alata 1 - 2 l/ha
+1485,gulma golongan rumput,Axonopus compressus 1 - 2 l/ha
+1486,gulma golongan rumput,Paspalum conjugatum 1 - 2 l/ha
+1487,gulma golongan rumput,Ottochloa nodosa 1 - 2 l/ha
+1488,gulma golongan rumput,Ischaemum timorense 1 - 2 l/ha
+1489,gulma berdaun lebar,Cleome rutidesperma
+1490,gulma berdaun lebar,Ageratum conyzoides Kalimat peringatan: Sisa gulma tidak boleh dibakar
+1491,gulma berdaun lebar,"Monochoria vaginalis (0,5 - 1 l/ha) Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar"
+1492,penyakit rebah kecambah,Rhizoctonia spp.
+1493,penyakit rebah kecambah,Fusarium spp.
+1494,penyakit rebah kecambah,Phythium spp.
+1495,Kumbang,Heterobostrychus aequalis
+1496,Kumbang,Lyctus brunneus
+1497,Rayap tanah,Macrotermes gilvus
+1498,Penggorok daun,Liriomyza sp
+1499,,"meningkatkan bobot umbi, pertumbuhan dan hasil tanaman"
+1500,teki,Cyperus irria
+1501,gulma golongan rumput,Echinochloa crussgalli
+1502,Penggerek batang kuning,Scircophaga incertulas
+1503,,"meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, jumlah umbi/tanaman, bobot 10 umbi, hasil/tanaman, hasil/petak dan hasil/ha"
+1504,gulma berdaun lebar,Marsilea crenata (1-2 l/ha) Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1505,penyakit busuk batang,Sclerotium rolfsii
+1506,Penyakit busuk basah,Colletotrichum gleosporiodes
+1507,Penyakit Pokkah Boeng,Fusarium moniliformae
+1508,gulma berdaun lebar,Alternanthera ficoidea
+1509,,bronopol
+1510,gulma berdaun lebar,Commelina difflusa
+1511,Penyakit bidang sadap,Ceratocytis fimbriata
+1512,penggerek batang padi,Sirpophaga incertulas
+1513,Penyakit bulai,Peronoscleropsora maydis
+1514,hama tungau,Tetranychus sp
+1515,hama tungau,Hemitarsonemus latus
+1516,,meningkatkan produksi lateks kering
+1517,kutu kebul,Bemisia tabacii
+1518,meningkatkan hasil panen,
+1519,meningkatkan hasil tanaman padi,
+1520,penyakit hawar pelepah,Rizoctonia sp.
+1521,gulma berdaun lebar,Alternanthera piliodes
+1522,gulma golongan rumput,Dactiloctenium aegyptum
+1523,gulma berdaun lebar,Acalypha australis
+1524,gulma golongan rumput,Digitria ciliaris
+1525,gulma berdaun lebar,Ludwigia vaginalis
+1526,Penyakit antraknosa,Colletothricum gloeosporioides
+1527,penyakit bercak ungu,alternaria porrii
+1528,Siput trisipan,Cerithidia sp.
+1529,penyakit bercak ungu,AIternaria porri
+1530,gulma golongan rumput,Eleusinie indica
+1531,gulma berdaun lebar,Hyptis rhomboidea
+1532,gulma golongan rumput,Pogonatherum crinitum
+1533,gulma golongan rumput,Pennisetum purpureum
+1534,Penyakit karat daun,Puccinia arrachidis
+1535,,Meningkatkan pembungaan
+1536,penggerek batang,Scirpophaga interculas
+1537,gulma berdaun lebar,Ludwiga octovalis
+1538,"rayap tanah (1,25 - 2,50 g/l )",Coptotermes cuvignathus
+1539,teki,Cyperus spp. (1-2 l/ha) Eleocharis dulcis
+1540,gulma berdaun lebar,Cleome sp. (2 - 3 l/ha) Digitaria sp. (2 - 3 l/ha) Ipomoea triloba
+1541,gulma berdaun lebar,Ageratum conyzoides (1-2 l/ha) Borreria alata
+1542,Penyakit karat merah,Cephaleuros virescens
+1543,Penyakit bercak daun,Alternariaa brassicae
+1544,Hama penggerek batang,Scirpophaga inotata
+1545,Penyakit antraknosa,Colletotrichum legenarium
+1546,,"meningkatkan tinggi tanaman, jumlah daun, jumlah akar, akar terpanjang, dan bobot segar tanaman"
+1547,Rayap tanah,"Coprtotermes curvignathus Proses vakum tekan : 1,875 %, Retensi : 0,94 kg/m3"
+1548,gulma berdaun lebar,Tetracera scendens
+1549,Penyakit layu stewart,Pantoea stewartii subsp.stewartii
+1550,penggerek batang padi kuning,Scirphophaga incertulas
+1551,penyakit hawar daun,Xanthomonas campestrius
+1552,,"meningkatkan jumlah gabah permalai, perumpun dan meningkatkan kadar rendemen gabah, mengurangi kadar hampa gabah permalai/ rumpun"
+1553,,"meningkatkan tinggi tanaman, jumlah daun, jumlah anakan"
+1554,gulma berdaun lebar,Heliotropenium indicum
+1555,teki,Cyperus sp
+1556,Penyakit gosong palsu (2 ml/l),Ustilagonoidea virens
+1557,Memperbanyak jumlah bunga,
+1558,gulma berdaun lebar,Chromolaena odoratum
+1559,gulma berdaun lebar,Calapogonium mucunoides
+1560,Meningkatkan hasil tanaman,
+1561,,"meningkatkan hasil gabah per rumpun, bobot 1000 butir, persen gabah isi, persen rendemen beras giling, hasil ubinan, jumlah gabah/malai"
+1562,gulma berdaun lebar,Limnocaris flava
+1563,gulma berdaun lebar,Spenochlea zaelanyca
+1564,kumbang tanduk,Oryctes sp.
+1565,perusak daun,Trichoplussiani sp.
+1566,teki,Fimbristyllis littoralis
+1567,teki,Elepcharis dulcis
+1568,gulma golongan rumput,"Axonopus compressus 1,5 - 3 l/ha"
+1569,gulma golongan rumput,"Ischaemum timorense 1,5 - 3 l/ha"
+1570,gulma golongan rumput,"Paspalum conjugatum 1,5 - 3 l/ha"
+1571,gulma berdaun lebar,"Synedrella nodiflora 1,5 - 3 l/ha"
+1572,ulat grayak,Spodoptera sp.
+1573,Nyamuk,Culex quinquefasciatus (Pengkabutan (ULV): 6 ml/ha)
+1574,Nyamuk,Aedes aegypti (Pengkabutan (ULV): 4 ml/ha)
+1575,Nyamuk,Culex quinquefasciatus (Pengasapan (Fogging) 8 ml/10 l/ha)
+1576,Nyamuk,Aedes aegypti (Pengasapan (Fogging) 8 ml/10 l/ha)
+1577,Nyamuk,Anopheles maculatus (Pengasapan (Thermal Fogging): 6 ml/ha)
+1578,Nyamuk,Anopheles maculatus (Pengkabutan (ULV) : 6 ml/ha)
+1579,Nyamuk,Aedes aegypti (Pengasapan (Fogging) 2 ml/10 l/ha)
+1580,Nyamuk,Culex quinquefasciatus (Pengasapan (Fogging) 6 ml/10 l/ha)
+1581,--,--
+1582,"meningkatkan tinggi tanaman, jumlah anakan, jumlah anakan produktif, komponen hasil gabah/ tanaman, dan hasil gabah/ha",
+1583,gulma berdaun lebar,Parthenium hysterophorus
+1584,gulma berdaun lebar,Euphorbia geniculate
+1585,gulma golongan rumput,Chloris barbata
+1586,gulma golongan rumput,Echinochola cruss-galli
+1587,gulma golongan rumput,Echinochola colonum
+1588,Wereng daun,Empoasca sp
+1589,penggulung daun,Lamprosema Indicate
+1590,"meningkatkan tinggi tanaman, jumlah daun, bobot buah, panjang tongkol, hasil tanaman/hektar",
+1591,hama gudang,Sitohilus zeamais
+1592,penyakit hawar pelepah,Rhyzoctonia solani
+1593,teki,Cyperus compressus
+1594,kutu daun,Myzus percisae
+1595,gulma berdaun lebar,Oldenlandia corymbosa
+1596,gulma berdaun lebar,Polygonum nepalense
+1597,gulma berdaun lebar,Murdannia nodiflora
+1598,gulma berdaun lebar,Aeschynomene indica
+1599,penggerek polong,Maruca Testutalis
+1600,kutu daun,Aphids
+1601,penyakit hawar daun,Phytophthora infestans 1.5 g/l
+1602,penyakit bercak ungu,Alternaria porri 1.5 g/l
+1603,penggerek batang,Chilo saccariphagus
+1604,Nyamuk,"Aedes aegypti Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/ pest control"
+1605,teki,Eleochoris dulcis
+1606,gulma golongan rumput,Ottochioa nodosa
+1607,,"meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, jumlah umbi, dan bobot umbi"
+1608,gulma golongan rumput,Axonopus crompressus
+1609,gulma berdaun lebar,Starcytapheta jamaicensis
+1610,gulma golongan rumput,Paspalum commersoni
+1611,gulma berdaun lebar,Mikania micarantha
+1612,Penyakit layu bakteri,Ralstonia sp.
+1613,gulma berdaun lebar,Selaginela willdenowi
+1614,penggerek batang,Zeurera cofeae
+1615,penyakit hawar daun,Phytophtora infenstans
+1616,Penyakit kanker,Xanthomonas axonopodis
+1617,,"Meningkatkan tinggi tanaman, jumlah anakan, komponen hasil dan hasil tanaman"
+1618,penyakit embun bulu,Perenospera detructor
+1619,penggerek batang padi kuning,Scirpophaga inncertulas
+1620,ulat grayak,Spodoptera exigua 1 g/l
+1621,perusak daun,Plutella xylostella 2 g/l
+1622,Penggorok daun,Liriomyza huidobrensis 2 g/l
+1623,gulma berdaun lebar,Portulace olerace
+1624,gulma golongan rumput,Commolene difusa
+1625,Tidak ada organismepenggangu tanaman karena jenis ZPT,"Bawang merah : meningkatkan tinggi tanaman, jumlah anakan, jumlah umbi/tanaman, bobot 10 umbi/g, hasil/tanaman (g), hasil/petak (kg) dan hasil/ha (kg/ha)"
+1626,,"Meningkatkan komponen hasil dan hasil tanaman 0,0075 ml/l"
+1627,Penyakit embun tepung,Leveillula taurica
+1628,gulma berdaun lebar,Columella trifolia
+1629,gulma golongan rumput,Dactylotenium aegyptium
+1630,gulma golongan rumput,Digitaria cilliaris
+1631,gulma golongan rumput,Cloris barbata
+1632,gulma golongan rumput,Panicum distachyum
+1633,gulma berdaun lebar,Cleome rutindosperma
+1634,gulma berdaun lebar,Lindemia antipoda
+1635,"Mempercepat umur pembungaan, jumlah ranting produktif, meningkatkan jumlah bunga, bobot buah/tanaman dan bobot buah/luasan",
+1636,gulma berdaun lebar,Michania michranta
+1637,gulma berdaun lebar,Asystacia gengatica
+1638,Golongan rumput,Ischaeumum timorense
+1639,gulma golongan rumput,Ischaeum timorense
+1640,ulat krop,Crcidolomia pavonana
+1641,gulma berdaun lebar,"Brachiaria mutica (67,5 - 90 g/ha) Cynodon dactylon"
+1642,gulma golongan rumput,Echnichloa spp.
+1643,Penyakit karat,Uromyces phaseoli
+1644,Penyakit busuk tunas,Marasmius palmivora
+1645,Penyakit busuk leher,Botrytis alii
+1646,Lalat daun,Hydrellia philipine
+1647,Meningkatkan perakaran dan pertumbuhan stek,
+1648,ulat api,Setoria nitens
+1649,gulma berdaun lebar,Althermantera sessilis
+1650,Siput murbei,Pomacea cannalicilata
+1651,Hama orong-orong,Gryllotalpa africana
+1652,Penyakit antraknosa,Colletrotichum sp.
+1653,gulma berdaun lebar,Ludwigia perenni
+1654,Ulat umbi,Phthorimaea operculela
+1655,gulma berdaun lebar,Eleutheranthera ruderalis
+1656,,"meningkatkan tinggi tanaman, jumlah bunga terbentuk, diameter mahkota bunga, diameter buah, dan bobot basah"
+1657,gulma berdaun lebar,Hedyotis corymbose
+1658,gulma golongan rumput,Paspalium urvellei
+1659,Penyakit busuk pangkal,Phytopthora capsici
+1660,gulma berdaun lebar,Alternanthera sp.
+1661,gulma golongan rumput,Axonopus compressus 3 - 4 l/ha
+1662,gulma golongan rumput,Ischaemum timorense 3 - 4 l/ha
+1663,gulma berdaun lebar,Synedrella nodiflora 3 - 4 l/ha
+1664,gulma berdaun lebar,Ageratum conyzoides 3 - 4 l/ha
+1665,gulma berdaun lebar,Clidemia hirta 3 - 4 l/ha
+1666,gulma golongan rumput,Ottochloa nodosa 3 - 4 l/ha
+1667,gulma berdaun lebar,Borreria alata 3 - 4 l/ha
+1668,,"meningkatkan jumlah gabah per malai, per rumpun dan meningkatkan kadar rendemen gabah, mengurangi kadar hampa gabah per malai/rumpun"
+1669,,"Meningkatkan tinggi tanaman dan jumlah anakan, hasil gabah ubinan dan hasil gabah per ha"
+1670,gulma berdaun lebar,Drymaria ciliaris
+1671,gulma berdaun lebar,Melastoma malbatrichum
+1672,,meningkatkan hasil produksi lateks
+1673,teki,Fimbristylis milieacea
+1674,gulma golongan rumput,Echinochiloa crus-galli
+1675,tungau jingga,Brevipalpus phoenicus
+1676,gulma golongan rumput,Pennissetum polystachyon
+1677,"meningkatkan tinggi tanaman, dan hasil per hektar",
+1678,gulma golongan rumput,Digitartia cyliaris
+1679,"Mempercepat waktu pembungaan, meningkatkan banyaknya ranting produktif, bunga dan buah, pembentukan tunas bunga, pembentukan bunga, jumlah pentil bunga",
+1680,Meningkatkan jumlah buah per pohon,
+1681,Meningkatkan jumlah hasil buah,
+1682,mempercepat waktu pembungaan,
+1683,ulat grayak,Spodotera exigua
+1684,Wereng,Idiocerus spp
+1685,Penghisap Bunga,Diplogomphus hewiti
+1686,ulat kilan,Hyprosida talaca
+1687,"meningkatkan tinggi tanaman, jumlah anakan, komponen hasil dan hasil tanaman",
+1688,kutu busuk,Cinex hemipterus
+1689,lipas/kecoa,Blatella germacica
+1690,Pengisap buah,Helopeltis spp
+1691,gulma golongan rumput,Centhoteca lappacea
+1692,Tikus rumah,Rattus rattus diardii
+1693,gulma golongan rumput,Ottochloa nadosa
+1694,gulma berdaun lebar,Chromolaena odorarta
+1695,hama putih palsu,Canaphaloclosis medinalis
+1696,Rattus agentiventer,
+1697,Penyakit embun tepung,Oidiopsis taurica
+1698,Penyakit antraknosa,Colletotrichum circinas
+1699,Rayap tanah,Coptotermes currvignathus
+1700,gulma golongan rumput,Fimbristylis miliacea Scirpus juncoides
+1701,Merangsang produksi karet kering,
+1702,gulma golongan rumput,Paspalum conjugatum setaria plicata
+1703,gulma berdaun lebar,"Mikania micrantha , Asystasia ganggetica"
+1704,Kutu tempurung,Coccus sp.
+1705,kecoak,Periplanetta americana Blatella germanica
+1706,gulma golongan rumput,Rhyncelitrum repens
+1707,Tikus rumah,Rattus rattus tanezumi
+1708,gulma berdaun lebar,Ludwigia octovalvis 75 - 100 g/ha
+1709,gulma berdaun lebar,Marsilea crenata 75 - 100 g/ha
+1710,gulma berdaun lebar,Alternanthera piloxeroides 75 - 100 g/ha
+1711,gulma berdaun lebar,Monochoria vaginalis 75 - 100 g/ha
+1712,teki,Cyperus iria 75 - 100 g/ha
+1713,teki,Fimbristylis miliacea 75 - 100 g/ha
+1714,gulma golongan rumput,Echinochloa crus-galli 75 - 100 g/ha
+1715,Untuk pendaftaran ekspor,Untuk pendaftaran ekspor
+1716,,"Meningkatkan tinggi tanaman,jumlah daun, jumlah anakan,jumlah umbi per tanaman,bobot umbi basah per tanaman,bobot umbi kering per tanaman,bobot umbi basah per petak,dan bobot umbi kering per petak"
+1717,gulma golongan rumput,lschaemum timorense
+1718,gulma golongan rumput,Ottochloa arnolttiana
+1719,gulma berdaun lebar,Erygeron sumatraensis
+1720,gulma berdaun lebar,Rotala leptopetala
+1721,teki,imprata silindrica
+1722,,"Meningkatkan tinggi tanaman, jumlah cabang, jumlah bunga, hasil/tanaman, hasil/petak dan hasil/ha"
+1723,Penyakit karat daun,Phakospora spp.
+1724,gulma berdaun lebar,Altenanthera sessilis
+1725,gulma berdaun lebar,Marselia crenata
+1726,"Gulma berdaun lebar (1,875-2,25 l/ha)",Melostoma mabathricunm
+1727,"Gulma berdaun lebar (1,875-2,25 l/ha)",Praxelis climatidea
+1728,,"meningkatkan tinggi tanaman, diameter batang, bobot daun segar, bobot daun kering, bobot brangkasan segar dan kering"
+1729,,"meningkatkan tinggi tanaman, mempercepat pembungaan, diameter mahkota bunga, diameter buah, dan bobot basah"
+1730,,"meningkatkan bobot perbuah, bobot pertandan produksi per ha, mempercepat masaknya buah"
+1731,,"meningkatkan produksi lateks, dan kadar karet kering"
+1732,penggerek buah,Stephanoderes hampei
+1733,Hama penggerek batang,Bactrocera hercules
+1734,penggerek batang,Chilo suppressalis
+1735,kutu daun,Aspidiotus destructor
+1736,Penyakit antraknosa,Colletotricum gloesporoides
+1737,Penyakit bercak daun,Cercospora sp. (Pesawat udara tanpa awak (drone): 300 ml/30 l air)
+1738,Penyakit bercak daun,Curvularia lunata
+1739,Penyakit karat,Puccinia chrysantemi
+1740,penyakit kulit,Diplodia Botryodiplodia theobromae
+1741,Penyakit bercak daun coklat,Curvularia muculans
+1742,Penyakit busuk buah,Phytophthora sp
+1743,Penyakit bercak daun,Helmintosporium turcicum
+1744,,meningkatkan hasil produksi karet kering
+1745,Gulma berdaun sempit,Panicum repens 75-100 ml/ha
+1746,Gulma berdaun sempit,Cynodon dactylon 75-100 ml/ha
+1747,Gulma berdaun sempit,Digitaria ciliaris 75-100 ml/ha
+1748,teki,Cyperus rotundus 75-100 ml/ha
+1749,gulma berdaun lebar,Sida acuta
+1750,gulma golongan rumput,Setaria plicat
+1751,,"meningkatkan tinggi tanaman jumlah daun, jumlah anakan, jumlah dan bobot umbi, dan hasil tanaman"
+1752,gulma berdaun lebar,Erigeron Sumantrensis
+1753,Siput murbei,Pomacea spp.
+1754,gulma berdaun lebar,Grassocephalum crepidiodes
+1755,Bahan Teknis,dimefluthrin
+1756,Nyamuk,Anoplehes maculatus Kalimat peringatan: Tidak boleh digunakan oleh Perorangan hanya oleh pest control atau petugas Dinas Kesehatan
+1757,"meningkatkan tinggi tanaman, jumlah anakan, jumlah anakan produktif, komponen hasil gabah/tanaman, dan hasil gabah/ha",
+1758,"meningkatkan jumlah bunga, jumlah hasil/petak, buah, hasil buah/tanaman, hasil/Haasil/Ha",
+1759,Penggerek batang kuning,Scirpophaga insertulas
+1760,Penyakit antraknosa,Colletotrichum gloesporium
+1761,gulma berdaun lebar,Cleome rutodosperma
+1762,larva lalat,Musca spp.
+1763,Wereng daun,Siphanta acuta
+1764,"Meningkatkan tinggi tanaman, jumlah cabang, jumlah umbi /tanaman, hasil tanaman, kualitas hasil tanaman",
+1765,Penyakit antraknosa (4 ml/l ),Gloeosporium gloeosporioides
+1766,gulma golongan rumput,Echinochlo crus-galli
+1767,,"Meningkatkan jumlah daun/tanaman, meningkatkan jumlah anakan/tanaman, meningkatkan jumlah umbi/tanaman, bobot 10 umbi, bobot umbi basah/tanaman, bobot 10 umbi kering/tanaman, bobot umbi basah/petak, bobot umbi kering/petak"
+1768,gulma golongan rumput,Dactoctenium angyptum
+1769,gulma golongan rumput,Imperta cylindrica
+1770,"Untuk merangsang pertumbuhan tinggi tanaman, jumlah anakan, jumlah anakan produktif, komponen hasil gabah/ tanaman, dan hasil gabah/ha","Meningkatkan tinggi tanaman, jumlah anakan, produktif, komponen hasil gabah/ tanaman, dan hasil gabah/ha"
+1771,nematoda parasit,"Pratylenchus spp 62,5 - 125 ml/m3 tanah"
+1772,nematoda parasit,"Criconemoides spp 62,5 - 125 ml/m3 tanah"
+1773,nematoda parasit,"Meloidogyne spp 62,5 - 125 ml/m3 tanah"
+1774,Tikus sawah,Rattus orgentiventer
+1775,gulma berdaun lebar,Commelina communis
+1776,gulma berdaun lebar,Amaranthus retroflexus
+1777,gulma berdaun lebar (3 - 6 l/ha ),Naphrolepsis sp.
+1778,gulma berdaun lebar (4 - 6 l/ha ),Nephrolepsis sp.
+1779,"gulma berdaun lebar (2,25 - 4,5 l/ha )",Limnochoris flava
+1780,gulma berdaun lebar (1.5 - 3 l/ha),Tridax procumbens
+1781,penggerek polong,Etiella zincknella
+1782,gulma berdaun lebar,Ludwiga hyssopifolia
+1783,gulma berdaun lebar,Galingsoga parviflora
+1784,gulma berdaun lebar,Costus speciosus
+1785,gulma golongan rumput,Pennisetum polystaction
+1786,gulma berdaun lebar,Bidens biternata
+1787,gulma berdaun lebar,Centrosema puescens
+1788,teki,Cyperus kilingia
+1789,gulma golongan rumput,Digitaria adscendens.
+1790,gulma berdaun lebar,"Ludwigia octovalvis,"
+1791,gulma golongan rumput,Leersea hexandra
+1792,"mempercepat dan meningkatkan pecah kuncup, meningkatkan pertumbuhan tanaman menjadi lebih tinggi dan seragam, meningkatkan hasil kualitas buah",30 ml/l
+1793,"Meningkatkan jumlah tunas, pertumbuhan hasil tanaman anggur",50 ml/l/pohon
+1794,gulma golongan rumput,Drymaria villosa
+1795,gulma berdaun lebar,Alternanthera braziliana 2 - 3 l/ha)
+1796,gulma berdaun lebar,Ageratum conyzlides
+1797,gulma berdaun lebar,Lindemia sp.
+1798,penyakit hawar pelepah,Rhiizoctonia solani
+1799,gulma berdaun lebar,Spigella anthelmia
+1800,gulma golongan rumput,Roettboellia exaltata
+1801,teki,Cyperus iria (1 - 2 l/ha) Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1802,gulma berdaun lebar,Marsiela crenata (1 - 2 l/ha) Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1803,gulma golongan rumput,"Axonopus compressus (1,5 - 3) Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar"
+1804,gulma berdaun lebar (300 - 600 ml/ha ),Phyllanthus debilis
+1805,gulma golongan rumput (300 - 600 ml/ha ),Echinocloa colona
+1806,serangga penyerbuk,Elaedobius spp.
+1807,gulma berdaun lebar,Alisma plantago
+1808,Nyamuk,Culex quinquifasciatus
+1809,tungau,Ornythonyssus bursa
+1810,alang-alang,Imerata cylindrica
+1811,,rattus tiomaicus
+1812,Kayu gergajian:,Coptotermes curvignatus
+1813,gulma berdaun lebar,Molugo pentaphylla
+1814,penghisap buah,Helopelthis antonii
+1815,gulma berdaun lebar,Althernathera philoxeroides
+1816,Lalat buah,Bactrocera spp.
+1817,ulat penggerek tandan (3 g/l ),Tirathaba sp
+1818,hama trips,Thrips parvisipinus
+1819,gulma berdaun lebar,Ludwigia octovalvis Kalimat Peringatan : Sisa gulma dan jerami tidak boleh dibakar
+1820,tungau merah,Tetranycus sp.
+1821,,"meningkatkan hasil tanaman/ha, hasil/petak"
+1822,gulma berdaun lebar,Clidernia hirta
+1823,gulma berdaun lebar,Erigenon sumatrensis
+1824,"meningkatkan tinggi tanaman, jumlah daun, dan bobot hasil.",
+1825,,"meningkatkan tinggi tanaman, jumlah daun, bobot/10 umbi, jumlah umbi/tanaman, bobot umbi/tanaman, bobot umbi/ubinan dan hasil/ha"
+1826,gulma golongan rumput (3 - 4 l/ha),Kacangan penutup tanah
+1827,gulma berdaun lebar,Spigelia anthelima
+1828,gulma berdaun lebar,Erigeron Sumtraensis
+1829,gulma berdaun lebar,Alternanthera brasziliensis
+1830,gulma berdaun lebar,Ludwigia peruviana
+1831,gulma berdaun lebar,Leucas lavandulifolia
+1832,gulma berdaun lebar,Acalypha indica
+1833,gulma berdaun lebar,Dioda sarmentosa
+1834,gulma berdaun lebar,synendrella nodiflora
+1835,"mempercepat munculnya bunga, meningkatkan persentase jumlah tanaman berbunga, ukuran buah dan bobot buah",
+1836,Gulma daun lebar,"Asystasia gangetica (1,125 - 2,25 l/ha))"
+1837,gulma golongan rumput,Eluesine indica
+1838,gulma golongan rumput,Paspalum conjugatum (2 - 3 l/ha))
+1839,gulma berdaun lebar,Boreria latifolia
+1840,"meningkatkan berat basah, berat kering, dan bobot umbi",
+1841,gulma golongan rumput,Cynodon dactycon
+1842,gulma golongan rumput,Digataria ciliaris
+1843,,Culex quinquefscinatus
+1844,gulma golongan rumput,Digitaria ascendens
+1845,gulma golongan rumput,Pennisetum polystachion
+1846,,meningkatkan pembungaan dan pembuahan tanaman mangga
+1847,Lalat buah,Bactocera dorsalis
+1848,gulma golongan rumput,Paspalum distchum
+1849,hama beras,Rhyzoperta dominica Sitophilus oryzae Tribolium castaneum
+1850,gulma berdaun lebar,"Monochoria vaginalis 0,75 - 1,5 kg/ha)"
+1851,"meningkatkan pembentukan pucuk, jumlah buah muda, jumlah buah yang dipanen, dan bobot kering biji (5 ml/l/pohon)",
+1852,"meningkatkan jumlah bunga dan presentase, bunga per pohon dan meningkatkan jumlah pentil per pohon (15 ml/l/pohon)",
+1853,gulma golongan rumput,Setaria palmifora
+1854,gulma berdaun lebar,Ipomoea tribola
+1855,,"meningkatkan tinggi tanaman, jumlah anakan produktif, jumlah bulir gabah/malai, bulir gabah/rumpun dan hasil gabah per hektar"
+1856,ulat jengkal,Trichoplusia sp.
+1857,Mematikan tanaman,
+1858,gulma berdaun lebar,Sphenochelea zeynalica
+1859,gulma berdaun lebar,Mikania micrantha Kalimat Peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1860,penyakit rebah semai,Pythium debaryanum
+1861,"meningkatkan pertumbuhan tanaman, meningkatkan produksi dan hasil tanaman, meningkatkan komponen hasil/ha",
+1862,gulma berdaun lebar,Oldenlandia corymbose
+1863,gulma berdaun lebar,Phyllantus urinaria
+1864,ulat penggerek tandan,Tirathaba sp.
+1865,gulma berdaun lebar,Polygala sp.
+1866,gulma berdaun lebar,Oxalis barrilierii
+1867,gulma berdaun lebar,Clibadium surinamense
+1868,ulat grayak,Spodoptera frungiperda
+1869,pengorok daun,Lyriomyza huidobrensis
+1870,kutu daun,Aphids sp
+1871,,"Meningkatkan jumlah anakan, jumlah daun, jumlah umbi, bobot kering tanaman, bobot umbi per tanaman, bobot tajuk, dan bobot per tanaman"
+1872,teki,Fimbristilis miliaceae
+1873,gulma berdaun lebar,Altern anthera piloxeroides
+1874,gulma golongan rumput,Paspallum conjugatum
+1875,gulma golongan rumput,Leptchloa chinensis
+1876,gulma berdaun lebar,Ludwigia octovslvis
+1877,gulma berdaun lebar,Ludwigia hyssojipolia
+1878,gulma berdaun lebar,Limnocharls flava
+1879,,"meningkatkan tinggi tanaman, jumlah daun per tanaman, jumlah tandan bunga per tanaman, jumlah bunga per tandan, jumlah buah per tandan, dan jumlah buah per tanaman, bobot buah per tanaman dan bobot buah per petak"
+1880,gulma berdaun lebar,Commelina nudiflora
+1881,gulma berdaun lebar,Polygala paniculata
+1882,gulma berdaun lebar,Asytasisa gangetica
+1883,Nyamuk,Culex pipiens
+1884,gulma berdaun lebar,Synedrella nodliflora
+1885,nematoda,Pratylenchus sp.
+1886,nematoda sista kuning,Globodera rostochinensis
+1887,penyakit hawar daun,Phytophthora infestans 3 g/l
+1888,hama gudang,Sitophilus spp. Tribolium spp.
+1889,Penyakit Jamur Merah,Nectria cinnabarina
+1890,gulma berdaun lebar,Eleutheranthera rudelaris
+1891,gulma berdaun lebar,Amaranthus gracilis
+1892,gulma berdaun lebar,Borreria alata Mikania micrantha Praxelis clematidea
+1893,gulma berdaun lebar,"Alternanthera piloxeroides 1,5 - 2,5 l/ha"
+1894,gulma berdaun lebar,"Monochoria vaginalis 1,5 - 2,5 l/ha"
+1895,gulma berdaun lebar,"Ludwigia octovalvis 1,5 - 2,5 l/ha"
+1896,gulma berdaun lebar,Ludwigia otcovalvis
+1897,gulma berdaun lebar,Portulaca olerachea
+1898,Hama penggerek umbi,Phthorimaea operculella 1 ml/l
+1899,pengorok daun,Liriomyza huidobrensis 1 ml/l
+1900,ulat kantong,"Metisa plana 0,25 - 1 ml/l"
+1901,hama kutu daun,"Myzus persicae 0,75 ml/l"
+1902,hama trips,"Thrips sp. 0,75 ml/l"
+1903,Hama pelipat daun,"Cnaphalocrosis medinalis 1,5 ml/l"
+1904,wereng batang coklat,"Nilaparvata lugens 0,75 - 1 ml/l"
+1905,penggerek batang,"Scirpophaga incertulas 0,75 - 1 ml/l"
+1906,Hama ganjur,Orseolia oryzae 1 ml/l
+1907,Penggorok daun,"Liriomyza sp. 0,75 ml/l"
+1908,Ulat daun,Plutella xylostella 2 ml/l
+1909,hama penghisap buah,"Dasynus piperis 0,25 ml/l"
+1910,hama penghisap bunga,"Diconocoris hewetti 0,25 ml/l"
+1911,gulma berdaun lebar,Lindernia antipoda
+1912,gulma golongan rumput,Brachiariamutica
+1913,gulma berdaun lebar,Elephantopus scaber
+1914,gulma golongan rumput,Ottochloanodosa
+1915,meningkatkan jumlah bunga,
+1916,Tikus pohon,Rattus tiamanicus
+1917,hama perusak daun,Plusia calchites
+1918,gulma berdaun lebar,Spenochlea zeylamica
+1919,,"menambah tinggi tanaman, jumlah anakan, skor warna daun, panjang malai, gabah/rumpun, bobot 1000 butir, persentase gabah isi, persentase gabah hampa, persentase rendemen beras, hasil ubinan, gabah kering giling (GKG), dan Gabah kering panen"
+1920,Lalat buah,Bactrocera ferrungineus
+1921,Hama wereng,Pereginus maydis
+1922,,Mempercepat pematangan buah
+1923,gulma golongan rumput,Rotboelia exaltata
+1924,"meningkatkan tinggi tanaman jumlah daun dan bobot umbi/tanaman, hasil umbi/petak",
+1925,N/A,N/A
+1926,gulma golongan rumput,lschaemum timorens
+1927,Nyamuk,Aedes aegypti (Pengkabutan (ULV): 16 ml/ha )
+1928,Nyamuk,Culex quinquefasciatus (Pengkabutan (ULV): 16 ml/ha )
+1929,Nyamuk,Culex quinquefasciatus (Pengasapan (Fogging): 24 ml/ha )
+1930,Nyamuk,Aedes aegypti (Pengasapan (Fogging): 24 ml/ha )
+1931,Nyamuk,Anopheles maculatus (Pengkabutan (ULV) : 18 ml/ha dan Pengasapan (Thermal Fogging) : 18 ml/ha )
+1932,Gulma daun lebar,"Chromolaena odorata 0,5 - 1 l/ha"
+1933,Gulma daun lebar,"Borreria alata 0,5 - 1 l/ha"
+1934,Gulma daun lebar,"Ageratum conyzoides 0,5 - 1 l/ha Peringatan: Sisa gulma dan jerami tidak boleh dibakar"
+1935,Gulma daun lebar,"Mikania micrantha 0,5 - 1 l/ha"
+1936,gulma golongan rumput,"Echinochloa crus-galli (1,5 - 2,5 l/ha) Leptochloa chinensis"
+1937,tungau,Hermitarsonemus latus
+1938,Penyakit antraknosa,Colletotrchum capsici
+1939,,Mempengaruhi pada pertumbuhan(tinggi tanaman) dan hasil tanaman padi
+1940,Meningkatkan pertumbuhan dan hasil tanaman,
+1941,tungau,Panonychus ulmi 1 ml/l
+1942,Hama,Empoasca sp. 0.5 l/ha
+1943,tungau jingga,Brevipalpus phoenicis 0.5 l/ha
+1944,Hama,Helopeltis sp. 0.5 l/ha
+1945,hama penggerek buah,Conopomorpha cramerella 0.6 l/ha
+1946,Kutu hijau,Coccus viridis 1 ml/l
+1947,Kutu putih,Pseudococcus citri 1 ml/l
+1948,semut api,Solenopsis geminate 1 ml/l
+1949,Hama rayap,Coptotermes curvignathus 1 ml/l
+1950,kutu loncat,Diaphorina citri 1 ml/l
+1951,kutu daun,Toxoptera sp. 1 ml/l
+1952,gulma golongan rumput,Ottocloa nodosa
+1953,teki,Fimbristylis milliace
+1954,gulma berdaun lebar,Hypericum japonicum
+1955,gulma berdaun lebar,Ageratum conyzoides Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1956,Penyakit embun tepung,Oidium lycopersici
+1957,gulma golongan rumput,Leptochloca chinensis
+1958,gulma berdaun lebar,Lindernia sp.
+1959,gulma golongan rumput,Eleocharis retroflaxa
+1960,gulma golongan rumput,Digitaria indica
+1961,,"meningkatkan jumlah tanaman membentuk tunas, jumlah tunas bunga, jumlah malai bunga, waktu keluar bunga, dan jumlah pentil buah/tanaman"
+1962,gulma golongan rumput,Ottochlea nodosa
+1963,,meningkatkan pertumbuhan tanaman dan bobot umbi basah per tanaman
+1964,gulma berdaun lebar,Jussica repens
+1965,Nyamuk,"Culex quenquefasciatus Kalimat peringatan: Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/ pest control"
+1966,pengorok daun,Liriomyza hudobrensis
+1967,gulma berdaun lebar,Borreria alata 2 - 3 l/ha
+1968,gulma berdaun lebar,Mikania micrantha 2 - 3 l/ha
+1969,gulma berdaun lebar,Ageratum conyzoides 2 - 3 l/ha
+1970,gulma berdaun lebar,Synedrella nodiflora 2 - 3 l/ha
+1971,semak/berkayu,Chromolaena odorata 2 - 3 l/ha Kalimat peringatan: Sisa gulma dan jerami tidak boleh dibakar
+1972,gulma golongan rumput,Ischaemum timorense 1.5 - 3 l/ha
+1973,gulma golongan rumput,Ottochloa nodosa 1.5 - 3 l/ha
+1974,gulma berdaun lebar,Hedyotis corymbosa 1.5 - 3 l/ha
+1975,gulma berdaun lebar,Ageratum conyzoides 1.5 - 3 l/ha
+1976,gulma golongan rumput,Paspalum conjugatum 1.5 - 3 l/ha
+1977,gulma golongan rumput,Imperata cylindrica 1.5 - 3 l/ha
+1978,gulma berdaun lebar,Biden pilosa 1.5 - 3 l/ha
+1979,Oteng-oteng/Kutu Kuya,Aulocophora similis
+1980,Meningkatkan produksi lateks kering,
+1981,Semut,Solenopsis sp.
+1982,Mematikan Tunggak/ Pohon Karet Tua,Mematikan Tunggak/ Pohon Karet Tua
+1983,Gulma berkayu,Melastoma affin
+1984,"Meningkatkan jumlah tanaman membentuk bunga, jumlah tunas bunga terbentuk, mempercepat waktu keluar bunga, jumlah malai bunga terbentuk, dan jumlah pentil buah","Meningkatkan jumlah tanaman membentuk bunga, jumlah tunas bunga terbentuk, mempercepat waktu keluar bunga, jumlah malai bunga terbentuk, dan jumlah pentil buah"
+1985,"Meningkatkan tinggi tanaman, jumlah umbi, bobot basah dan bobot kering umbi","meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, jumlah umbi per tanaman, bobot umbi basah per tanaman, bobot umbi basah per petak, dan bobot umbi kering per petak"
+1986,teki,Cyperus cylingia
+1987,penyakit blas,Phyricularia oryzae
+1988,Nyamuk,Nyamuk Aedes aegypti
+1989,gulma golongan rumput,"Axonopus compressus 1,5 - 3 l/ha)"
+1990,,"meningkatkan tinggi tanaman jumlah daun, dan bobot hasil"
+1991,penggerek polong,Etiella sp.
+1992,hama trips,Thrips parvipinus
+1993,Meningkatkan kadar karet kering,
+1994,gulma golongan rumput,Euleusine indica
+1995,gulma berdaun lebar,Tetracera indica 100 - 200 g/ha
+1996,gulma berdaun lebar,Schima wallichi 100 - 200 g/ha
+1997,gulma golongan rumput,Ottochloa nodosa 100 - 200 g/ha
+1998,gulma berdaun lebar,Synedrella nodiflora 150 - 250 g/ha
+1999,gulma berdaun lebar,Ageratum conyzoides 150 - 250 g/ha
+2000,gulma berdaun lebar,Chromolaena odorata 150 - 250 g/ha
+2001,gulma golongan rumput,Eleusine indica 150 - 250 g/ha
+2002,Lalat buah,Dacus sp.
+2003,penyakit hawar daun,Phytophthora infestns
+2004,hama lanas,Cylas formicarius
+2005,,"Meningkatkan komponen hasil, jumlah umbi per tanaman, dugaan hasil/ha"
+2006,ulat grayak,Spodeptera litura
+2007,gulma berdaun lebar,Amaranthus spinosis
+2008,penyakit hawar pelepah,Rhizoctonia sp
+2009,teki,Fimbristylis milacea
+2010,gulma berdaun lebar,Corton hirtus
+2011,-,Meningkatkan produksi tanaman
+2012,Siput murbei,Pomacea canaliculata 600 ml/ha
+2013,hama trips,Thrips palmi 1 ml/l
+2014,Penyakit bercak daun,Cercospora capsica
+2015,gulma golongan rumput,Setaria plicata (3 -4 l/ha))
+2016,jambret,Mesopodopsis slaberri
+2017,Nyamuk,"Culex quinquefasciatus Kalimat peringatan : Tidak boleh digunakan oleh perorangan, hanya digunakan oleh petugas Dinas Kesehatan/ Pest control"
+2018,gulma berdaun lebar,Melastoma malabactricum
+2019,penyakit busuk gabah,Burkholderia glumae
+2020,,memperpanjang masa kesegaran buah atau menghambat kemasakan buah
+2021,,"meningkatkan tinggi tanaman, jumlah umbi, bobot basah dan bobot kering umbi"
+2022,caplak sapi,Boophilus microplus
+2023,kutu ayam,Menopon gallinae
+2024,Caplak anjing,Rhipicephalus sanguinus
+2025,hama tungau,Tetranychus spp.
+2026,Didaftarkan untuk keperluan Ekspor,Didaftarkan untuk keperluan Ekspor
+2027,gulma berdaun lebar,Althernanthera sesilis
+2028,ulat grayak,Spodoptera litura 0.5 ml/l
+2029,wereng cokelat,Nilaparvata Lugens 225 - 300 ml/ha
+2030,,"Meningkatkan tinggi tanaman, jumlah daun per tanaman, panjang dan diameter tongkol, bobot tongkol berkelobot dan tanpa kelobot 1 ml/l air/aplikasi"
+2031,penyakit bercak ungu,Alternaria sp
+2032,gulma berdaun lebar,Strachytarpheta jamaicensis
+2033,gulma berdaun lebar,Spenochlea sp.
+2034,Penyakit embun tepung,Oidium chrysanthemi
+2035,Penyakit embun tepung,Sphaerotheca fuliginea
+2036,Penyakit embun tepung,Erysiphe cichoracearum
+2037,gulma berdaun lebar,Luduwigia octovalvis
+2038,"meningkatkan jumlah gabah per malai, per rumpun dan meningkatkan kadar rendemen gabah, mengurangi kadar hampa gabah per malai/rumpun.",
+2039,,"meningkatkan tinggi tanaman jumlah umbi, bobot basah dan bobot kering umbi"
+2040,gulma berdaun lebar,"Cleomae rutidosperma 1,5 - 3 l/ha"
+2041,gulma berdaun lebar,"Ludwigia perensis 1,5 - 3 l/ha"
+2042,Nyamuk,Culex quinquefasciatus (20 ml/ha) Kalimat peringatan: Tidak boleh digunakan oleh perorangan Hanya digunakan oleh petugas Dinas Kesehatan atau Pest Control
+2043,"Meningkatkan pertumbuhan flush/tanaman, jumlah bunga/tanaman",
+2044,"Gulma Berdaun Lebar (0,75 - 1,5 l/ha)",Cleome rutidospremae
+2045,gulma berdaun lebar,Chromolaenan odorata
+2046,"meningkatkan bobot umbi, hasil/tanaman, hasil/petak, hasil/ha",
+2047,"meningkatkan komponen hasil tanaman, jumlah hasil/petak, jumlah/ha",
+2048,penggerek polong,Marruca testulalis
+2049,pengorok daun,Liriomyza Chrysanthemi
+2050,"Penggerek polong (0,5 ml/l)",Etiella zinckinella
+2051,Wereng,Peregrinus maidis
+2052,Bubuk kayu kering,Heterobostrychus aequali
+2053,Siput trisipan,Cerithidae sp.
+2054,gulma golongan rumput,Setaria flicata
+2055,gulma berdaun lebar,Climedia hirta
+2056,,"Meningkatkan jumlah daun, hasil tanaman, hasil/petak dan hasil/ha"
+2057,Meningkatkan pembungaan dan pembuahan,
+2058,gulma berdaun lebar,Calopogonium mucunoides 3-4 l/ha
+2059,gulma golongan rumput,Setaria plicata 1-2 l/ha
+2060,gulma golongan rumput,Axonopus compressus 1-2 l/ha
+2061,gulma golongan rumput,Paspalum conjugatum 2.25 - 3 l/ha
+2062,gulma golongan rumput,Axonopus compressus 2.25 - 3 l/ha
+2063,gulma berdaun lebar,Mikania micrantha 2.25 - 3 l/ha
+2064,gulma berdaun lebar,Borreria alata 2.25 - 3 l/ha
+2065,Siput murbei,Fentin Hydroxide
+2066,gulma berdaun lebar,Borreria latifora
+2067,"Penyakit busuk batang (0,75 g/l)",Didymella bryoniae
+2068,"Penyakit busuk tunas (0,125 g/l)",Marasmius palmivorus
+2069,"Penyakit busuk leher (0,125 g/l)",Botrytis allii
+2070,Penyakit kudis (150 g/ha),Elsinoe fawcettii
+2071,"Meningkatan jumlah cabang produktif, jumlah bunga, jumlah buah yang jadi, bobot buah per tanaman, panjang buah, diameter buah, dan hasil per petak maupun per hektar",
+2072,penyakit hawar daun,Rhizoctonia solani 2 g/l
+2073,Penyakit bercak coklat,Culvularia maculans 1 g/l
+2074,penyakit busuk daun,Phytophthora capsici 1 g/l
+2075,Penyakit karat,Phakopsora pachyrhizi 2 g/l
+2076,penyakit hawar daun,Phytophthora infestans 1 g/l
+2077,penyakit busuk daun,Peronospora destructor 1 g/l
+2078,Penyakit bulai,Peronosclerospora maydis 4 g/l
+2079,Penyakit bercak daun,"Stigmina mangiferae indica 1,5 g/l"
+2080,gulma golongan rumput,Bracharia mutica
+2081,gulma berdaun lebar,Althernanthera philoxeroid
+2082,gulma berdaun lebar,Sphenochloa zeylanica
+2083,hama Symphyla,Hanseniella sp.
+2084,,Ratus argentiventer
+2085,meningkatkan jumlah dan bobot umbi,
+2086,gulma berdaun lebar,Melochia chorcorifolia
+2087,"Meningkatkan tinggi tanaman, jumlah daun, jumlah anakan, jumlah umbi, bobot umbi basah dan bobot umbi kering",
+2088,hama lalat buat,Bactrocera cucurbitae
+2089,Gulma paku-pakuan,Glechenia linearis
+2090,gulma golongan rumput,Paspatum conjugatum Digitaria adscendens
+2091,gulma berdaun lebar,"Asystasia gangetica (1,5 - 2,5 l/ha) Borreria alata (1,5 - 2,5 l/ha) Clidemia hirta (1,5 - 2,5 l/ha) Mikania micrantha"
+2092,gulma berdaun lebar,Ageratum conyzoides (2 - 3 l/ha) Borreria alata (2 - 3 l/ha) Clidemia hirta (2 - 3 l/ha) Mikania micrantha
+2093,gulma golongan rumput,Paspalum conjugatun
+2094,"Meningkatkan lingkar buah, bobot perbuah, bobot buah/pohon, hasil perhektar",
+2095,gulma berdaun lebar,Euphorbia serpens
+2096,semut pharaoh,Manomorium pharaonis
+2097,semut argentina,Iridomyrmex humilis
+2098,"Meningkatkan tinggi tanaman, jumlah daun, bobot 10 umbi, bobot basah, bobot kering dan hasil/ha","Meningkatkan tinggi tanaman, jumlah daun, bobot 10 umbi, bobot basah, bobot kering dan hasil/ha"
+2099,siput darat,Bradybaena similaris
+2100,gulma golongan rumput,Roctbelia exaltata
+2101,gulma berdaun lebar,Portula oleracea
+2102,Penghisap bunga (2 ml/l),Diconocoris hewitti
+2103,wereng batang coklat,Nilaparvata lugens Stal
+2104,,"meningkatkan tinggi tanaman, jumlah daun, jumlah akar, akar terpanjang, bobot segar"
+2105,penyakit busuk daun,Phytophthora insestans
+2106,gulma berdaun lebar,Lindernia procumbens
+2107,gulma berdaun lebar,Portulaca villosa
+2108,,"meningkatkan produksi lateks, kadar karet kering (KKK), dan tidak menyebabkan kering alur sadap"
+2109,gulma berdaun lebar,Borrirea alata
+2110,hama gudang,Sitophylus zeamays
+2111,gulma berdaun lebar,Meloxia charcorifolia
+2112,gulma berdaun lebar,Phylantus rururi
+2113,"Meningkatan bobot umbi per tanaman, per petak, dan hasil tanaman",
+2114,penggerek batang,Scripophaga incertulas
+2115,,"meningkatkan jumlah tunas bunga, jumlah bunga, jumlah buah per tanaman, dan mempercepat waktu keluarnya bunga"
+2116,,"meningkatkan pertumbuhan tanaman, komponen hasil"
+2117,gulma berdaun lebar,"Alternanthera piloxeroides 1,5 - 2 l/ha)"
+2118,gulma berdaun lebar,"Cleome rutidospermae 1,5 - 2 l/ha)"
+2119,gulma berdaun lebar,"Borreria alata 1,5 - 2 l/ha)"
+2120,teki,"Cyperus rotundus 1,5 - 2 l/ha)"
+2121,gulma golongan rumput,"Digitaria ciliaris 1,5 - 2 l/ha)"
+2122,gulma golongan rumput,"Setaria palmifora 1,5 - 2 l/ha)"
+2123,gulma golongan rumput,"Brachiaria mutica 1,5 - 2 l/ha)"
+2124,gulma golongan rumput,"Anoxopus compressus 1,5 - 2 l/ha)"
+2125,gulma berdaun lebar,Merrenia peltata

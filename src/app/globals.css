@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+:root {
+  /* Base */
+  --color-background: #f7faf6;
+  --color-card: #ffffff;
+  --color-primary: #17231c;
+  --color-secondary: #6b756e;
+
+  /* Brand */
+  --color-forest: #16834b;
+  --color-leaf: #65b84f;
+
+  /* Semantic */
+  --color-weather: #5ba8d6;
+  --color-warning: #f2a93b;
+  --color-danger: #e7655a;
+  --color-info: #8a75c7;
+
+  /* Radius */
+  --radius-card: 20px;
+  --radius-button: 14px;
+  --radius-input: 12px;
+}
+
+@theme inline {
+  --color-background: var(--color-background);
+  --color-card: var(--color-card);
+  --color-primary: var(--color-primary);
+  --color-secondary: var(--color-secondary);
+
+  --color-forest: var(--color-forest);
+  --color-leaf: var(--color-leaf);
+
+  --color-weather: var(--color-weather);
+  --color-warning: var(--color-warning);
+  --color-danger: var(--color-danger);
+  --color-info: var(--color-info);
+
+  --radius-card: var(--radius-card);
+  --radius-button: var(--radius-button);
+  --radius-input: var(--radius-input);
+
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-primary);
+  overscroll-behavior-y: contain;
+}
+
+@keyframes sway {
+  0%,
+  100% {
+    transform: rotate(-6deg);
+  }
+  50% {
+    transform: rotate(6deg);
+  }
+}
+
+@keyframes pulse-soft {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 0.15;
+  }
+}
+
+.animate-sway {
+  animation: sway 2.6s ease-in-out infinite;
+  transform-origin: 50% 90%;
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 2.6s ease-in-out infinite;
+}

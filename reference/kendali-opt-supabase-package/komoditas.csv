@@ -1,0 +1,737 @@
+id,nama
+1,Tebu
+2,Padi
+3,Padi sawah
+4,Cabai
+5,Di dalam dan di luar ruangan
+6,Kelapa sawit (TBM)
+7,Budidaya jagung
+8,Budidaya kelapa sawit (TBM)
+9,Budidaya padi sawah
+10,Jagung
+11,Kentang
+12,Bangunan
+13,Karet
+14,Bawang merah
+15,Kakao (TM)
+16,Curah hujan (Rain Fastness)
+17,Karet (TM)
+18,Kelapa sawit (TM)
+19,Jagung (TOT)
+20,Teh
+21,Akasia
+22,Kedelai (TOT)
+23,Cengkeh (TM)
+24,Kopi (TM)
+25,Jagung PRG event NK603
+26,Kelapa (TM)
+27,Jeruk
+28,Tomat
+29,-
+30,Mangga
+31,Budidaya kedelai:
+32,Budidaya jagung:
+33,Kacang panjang
+34,Budidaya bawang merah
+35,Budidaya tebu
+36,Kakao
+37,Di dalam ruangan
+38,Budidaya padi sawah (TOT)
+39,Budidaya kopi (TBM)
+40,Semangka
+41,Persiapan tanam budidaya padi sawah (TOT)
+42,Karet (TBM)
+43,Budidaya kentang
+44,Kubis
+45,Kacang hijau
+46,Budidaya Jagung (TOT):
+47,Kelapa sawit (TBM):
+48,Budidaya kelapa sawit (TM)
+49,Bibit tanaman kelapa sawit
+50,Tembakau
+51,Kedelai
+52,Kopi
+53,Budidaya padi sawah:
+54,Persiapan tanam padi sawah TOT
+55,Kelapa sawit
+56,Hutan tanaman Accacia mangium
+57,Budidaya kelapa sawit (TBM):
+58,Kacang tanah
+59,Persiapan lahan budidaya padi sawah (TOT)
+60,Persiapan lahan budidaya padi sawah pasang surut (TOT)
+61,Teh (TM)
+62,Hutan Tanaman Industri Acacia Mangium
+63,Hutan Tanaman Industri Eucalyptus
+64,Beras di penyimpanan
+65,Jagung di penyimpanan
+66,Tembakau di pesemaian
+67,Padi:
+68,Cabai:
+69,Kelapa Sawit TBM
+70,Kebutuhan Ekspor
+71,Budidaya karet (TBM)
+72,Di luar ruangan
+73,Mentimun
+74,Melon
+75,Ubi kayu
+76,Tidak Termasuk Salah Satu Persyaratan Pendaftaran Izin Tetap Baru Bahan Teknis
+77,Jagung:
+78,Daun tembakau
+79,Apel
+80,Bawang Putih
+81,Cabai merah
+82,Lahan tanpa tanaman
+83,Kandang ternak
+84,Pondasi bangunan
+85,"Pemukiman, Bangunan dan Rumah Tangga"
+86,Tambak udang windu dan ikan bandeng
+87,Padi Sawah (TOT)
+88,"Permukiman, Bangunan, Rumah tangga"
+89,Semut
+90,Kutu busuk
+91,Persiapan lahan budidaya jagung (TOT)
+92,Kubis di pesemaian
+93,"Kakao (0,5 ml/l)"
+94,"Padi (1,5 ml/l )"
+95,Bawang merah (2 ml/l )
+96,Padi sawah (2 ml/l )
+97,"Cabai (1,5 ml/l )"
+98,"Kubis (1,5 ml/l )"
+99,"Kelapa sawit (0,5 ml/l)"
+100,Kentang (2 ml/l )
+101,"Karet (0,5 ml/l)"
+102,Budidaya jagung manis
+103,Pembibitan kelapa sawit
+104,Budidaya tanaman tebu
+105,ACTICIDE MBR 1
+106,Kakao (TBM)
+107,Padi sawah pasang surut (TOT)
+108,Di dalam dan di luar ruangan:
+109,Budidaya karet (TBM):
+110,Kelapa
+111,Kayu gergajian
+112,Tanah bangunan
+113,Padi sawah:
+114,Terung
+115,Budidaya padi sawah (Tabela)
+116,Budidaya padi sawah (Tapin)
+117,Budidaya kakao (TBM)
+118,Nanas
+119,Karet (TBM )
+120,Acticide OF 2
+121,"cabai (1,5 ml/l)"
+122,Kedelai (2 ml/l)
+123,Didalam dan Diluar Ruangan
+124,Pemukiman dan Rumah Tangga
+125,Acticide B 20
+126,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk keperluan ekspor.
+127,Padi :
+128,Cengkeh
+129,Izin Tetap Ulang Bahan Teknis
+130,Budidaya jagung (TOT)
+131,Budidaya karet (TM)
+132,Di dalam ruangan:
+133,Tidak dilakukan uji efikasi pada pendaftaran produk ekspor.
+134,Budidaya udang windu dan ikan bandeng
+135,tidak ada
+136,Bangunan bukan perumahan
+137,Kapas
+138,Sawi
+139,Rock Melon
+140,Pisang
+141,Padi sawah (tabela)
+142,Proxel 106 Preservative
+143,Terigu
+144,Beras
+145,Cabai merah:
+146,Budidaya Eucalyptus sp.
+147,Budidaya akasia
+148,Bawang merah:
+149,Tidak ada (Pendaftaran Bahan Teknis)
+150,Budidaya padi
+151,Tikus belukar
+152,Tikus sawah
+153,Padi gogo
+154,Jentik nyamuk
+155,Tambak budidaya udang windu dan ikan bandeng
+156,NA
+157,Di dalam dan di luar ruangan: nyamuk
+158,Tidak dilakukan percobaan efikasi. Hanya didaftarkan untuk Bahan Teknis
+159,dalam ruangan
+160,Untuk keperluan ekspor
+161,Padi sawah tanam pindah
+162,Persiapan tanam padi sawah (TOT)
+163,Kentang:
+164,N.A
+165,Tomat (4 g/l)
+166,Krisan (1 g/l)
+167,"Bawang merah (1,5 g/l)"
+168,"Lada (1,2 g/l)"
+169,"Anggur (1,5 g/l)"
+170,"Jarak Pagar (1,2 g/l)"
+171,"Tembakau di pembibitan (1,5 g/l)"
+172,Semangka (3 g/l)
+173,"Jeruk (0,5 g/l)"
+174,Mangga (3 g/l)
+175,Bawang daun (4 g/l)
+176,Kacang panjang (3 g/l)
+177,Padi sawah (3 g/l)
+178,Jagung (2 kg/ha )
+179,"Bawang putih (1,5 g/l)"
+180,Pembibitan kelapa sawit (1 g/l)
+181,"Kubis (1,5 g/l)"
+182,"Kacang tanah (1,125 g/l)"
+183,Apel (3 g/l )
+184,"Kentang (1,875 g/l )"
+185,"Strawberi (1,5 g/l)"
+186,Anggrek (4 g/l)
+187,Kopi (6 g/l)
+188,Ketimun (4 g/l)
+189,Cengkeh (2 g/l)
+190,Kedelai (5 g/l)
+191,Teh (2 g/l)
+192,Budidaya padi sawah tabela
+193,Pembibitan Tembakau
+194,Terigu di penyimpanan
+195,Padi tabela
+196,Kentang :
+197,Padi sawah :
+198,Budidaya kelapa sawit (TM):
+199,Karet TM
+200,Budidaya padi sawah pasang surut (TOT)
+201,Budidaya tanaman padi sawah
+202,Di dalam dan di luar ruangan :
+203,Pembibitan karet
+204,Padi sawah (3 tablet/500 l/ha)
+205,"Bawang merah (0,0625 g/l )"
+206,Seledri (1 g/l air/aplikasi)
+207,Jagung manis
+208,Wadah penampungan air
+209,Padi sawah lahan pasang surut (TOT)
+210,Tanaman Jagung
+211,"Hutan tanaman industri akasia (0,75 - 1 l/ha )"
+212,"Kelapa sawit (TBM) (0,75 - 1 l/ha )"
+213,Padang rumput golf
+214,Persiapan lahan budidaya padi sawah TOT
+215,Persiapan lahan budidaya jagung TOT
+216,ACTICIDE OTW
+217,Tempat penampungan air:
+218,Budidaya kedelai
+219,Semak Belukar
+220,Cabai :
+221,Kopi (TBM)
+222,SMARTZ 65 EC
+223,Jeruk nipis
+224,Kacang Buncis
+225,Seledri
+226,Stroberi
+227,"Budidaya jagung (0,5 - 1,5 l/ha )"
+228,Budidaya kelapa sawit (TBM) (1 - 2 l/ha )
+229,Budidaya kopi TBM
+230,Budidaya Jagung TOT
+231,Pinus di persemaian
+232,Budidaya kopi (TM)
+233,"Pemukiman, Bangunan, dan Rumah Tangga"
+234,Ekspor
+235,Tebu lahan kering
+236,Budidaya kakao (TBM) :
+237,Padi Sawah dipersemaian
+238,Bahan Teknis
+239,Proxel GL20 Preservative
+240,Produk ini hanya digunakan untuk keperluan eksport dan tidak untuk dipergunakan/ diperjualbelikan di Indonesia.
+241,Karet ( TBM )
+242,Kubis:
+243,Nyamuk
+244,izin tetap bahan teknis
+245,Budidaya padi sawah tanam pindah (Tapin)
+246,Budidaya Tanaman HTI Acacia mangium
+247,Lantai Kayu
+248,Nenas
+249,Acticide MV
+250,Jagung PRG Toleran Glifosat
+251,Budidaya Tanaman Hujan Tanaman Industri (HTI) Eucalyptus sp.
+252,Padi (TOT)
+253,ACTICIDE MBS
+254,Persiapan budidaya jagung (TOT)
+255,Gudang penyimpanan
+256,Gandum
+257,Eucalyptus
+258,Tikus rumah
+259,Budidaya tebu:
+260,Tomat:
+261,tidak tersedia untuk ekspor
+262,Budidaya Padi (TOT)
+263,Budidaya kedelai (TOT)
+264,Kopi (TBM) (3 - 6 l/ha)
+265,Karet (TM) (3 - 6 l/ha)
+266,"Kelapa Sawit (TBM) (2 - 2,5 l/ha)"
+267,Kakao (TBM) (3 - 6 l/ha)
+268,Budidaya padi sawah tabur benih langsung (Tabela)
+269,Lada
+270,Anggur
+271,Kebutuhan Export
+272,"Budidaya jagung (0,75 -1,5 l/ha )"
+273,Budidaya kakao ( TBM )
+274,Hama gudang
+275,Tidak Ada Penggunaan Terdaftar (Pestisida Ekspor)
+276,Persiapan tanam budidaya padi gogo (TOT)
+277,Hutan tanaman industri (Acacia crassicarpa)
+278,Persiapan tanam budidaya jagung (TOT)
+279,"Semangka (2,25 g/l)"
+280,"Bawang Merah (2,25 g/l)"
+281,Karet di pembibitan (2 g/l)
+282,"Tanaman Tembakau (2,25 g/l)"
+283,"Melon (2,25 g/l)"
+284,"Cabai (1,5 g/l)"
+285,"Tomat (2,25 g/l)"
+286,"Anggur (2,25 g/l)"
+287,"Kentang (2,25 g/l)"
+288,Kandang ayam
+289,AGITA 10 WG
+290,Karantina dan pra pengapalan
+291,N/A
+292,ACTICIDE SPX
+293,Budidaya padi sawah tanam pindah (tapin):
+294,Didalam dan di luar ruangan
+295,Budidaya kelapa sawit (TBM/ Nursery)
+296,Budidaya padi sawah (Tabela):
+297,Proxel BZ Plus
+298,"Hutan tanaman industri akasia (0,75 - 1,5 l/ha)"
+299,"Kelapa sawit (TBM) (0,75 - 1,5 l/ha)"
+300,Karet:
+301,Bawang daun
+302,Tambak udang windu dan ikan bandeng:
+303,Bangunan dan Rumah Tangga
+304,Di dalam ruangan :
+305,Melon (2 ml/l)
+306,Ketimun (2 ml/l )
+307,Jagung (1 ml/l)
+308,Kentang (2 ml/l)
+309,Tembakau di persemaian
+310,Beras dalam penyimpanan
+311,Mentimun:
+312,Tomat :
+313,"Karet (TBM) (1,5 - 3 l/ha)"
+314,Budaidaya kelapa sawit (TBM)
+315,ACTICIDE IPS 30
+316,Rambutan
+317,Jambu biji
+318,Kakao (TBM) (1-2 l/ha )
+319,"Budidaya kelapa sawit (TBM) (1,5-2 l/ha )"
+320,Budidaya Jagung (TOT) (1-2 l/ha )
+321,Padi sawah tapin
+322,Budidaya kelapa sawit (TM )
+323,Pestisida Rumah Tangga
+324,tidak tersedia untuk bahan teknis
+325,Tembakau:
+326,Brokoli
+327,Tanaman Tebu
+328,Pemukiman
+329,Budidaya padi sawah tapin
+330,Budidaya padi sawah tabela (tanam benih langsung)
+331,Kelapa sawit:
+332,Kelapa swit (TBM)
+333,Rayap tanah
+334,Bakterisida
+335,Wortel
+336,"Kacang tanah (3,75 g/l)"
+337,Apel (1 g/l)
+338,Bawang merah (1 g/l)
+339,Jeruk (3 g/l)
+340,Cabai (1 g/l)
+341,"Kedelai (3,75 g/l)"
+342,Mangga (2 g/l)
+343,Kentang (1 g/l)
+344,Krisan (4 g/l)
+345,"Kubis (3,75 g/l)"
+346,Tomat (1 g/l)
+347,Budidaya kubis
+348,"Tomat (0,75 ml/l)"
+349,"Padi (0,625 ml/l)"
+350,"Cabai (0,75 ml/l)"
+351,"Melon (0,75 ml/l)"
+352,"Bawang merah (0,75 ml/l)"
+353,Budidaya teh
+354,Budidaya jeruk
+355,Budidaya kakao (TM)
+356,Bawang merah (4 g/l)
+357,Cabai (3 g/l)
+358,Kentang (4 g/l)
+359,Tomat (2 g/l)
+360,Kakao (3 g/l)
+361,Padi pasang surut
+362,Jagung TOT
+363,Budidaya eukaliptus
+364,Budidaya tanaman kelapa sawit (TBM):
+365,Budidaya tanaman kedelai
+366,Kelapa Sawit(TBM)
+367,Padi sawah tanam benih langsung (Tabela)
+368,Budidaya tanaman jagung
+369,Budidaya Kelapa Sawit ( TBM )
+370,Pakan ternak (Corn Mill)
+371,Anggrek
+372,Ketimun
+373,Karet (TM) (2 - 3 l/ha)
+374,Tebu (2 - 3 l/ha)
+375,"Padi sawah (0,75 - 1,25 l/ha)"
+376,Karet (TBM) (1 - 2 l/ha)
+377,tidak ada (Tetap ulang Bahan Teknis
+378,Cabai (2 ml/l)
+379,Kedelai (1 - 2 ml/l)
+380,Krisan
+381,Kentang (2 g/l)
+382,"Tomat (1,5 - 2,5 g/l )"
+383,Tanaman padi sawah (4 g/l)
+384,Jarak pagar
+385,Kacang Tanah (2 ml/l)
+386,Kopi (1 ml/l)
+387,Bawang Merah (25 ml/100 ml)
+388,"Pembibitan kelapa sawit (1,5 ml/l)"
+389,"Apel (0,25 ml/l)"
+390,"Semangka (0,4 ml/l)"
+391,"Bawang putih (0,5 ml/l)"
+392,kelapa sawit (150 ml/10L/pohon)
+393,"Karet (3,75 ml/l air/pohon )"
+394,Budidaya kelapa sawit (TBM) :
+395,Padi Sawah (Tapin)
+396,Padi sawah tabela
+397,Benih Jagung
+398,Buah naga
+399,"Pemukiman, bangunan an rumah tangga"
+400,Budidaya Tanaman Kelapa Sawit (TBM)
+401,Padi sawah tanam pindah (TAPIN)
+402,Padi sawah tabur benih langsung
+403,Jagung manis:
+404,Budidaya kedelai :
+405,Didalam ruangan
+406,"Bawang merah (0,5 ml/l)"
+407,Mangga (8 ml/l/pohon)
+408,Padi sawah (2 ml/l)
+409,Perlakuan benih jagung
+410,Jagung (75 - 125 ml/ha)
+411,Kelapa Sawit (TM) (60-100 ml/ha)
+412,Tambak Udang Windu dan Bandeng
+413,Kedelai TOT
+414,Jagung: (Penyemprotan volume tinggi: 25 g/ha (20 HST dan 40 HST))
+415,"Padi sawah: (Perendaman: 0,5 tablet/50 liter)"
+416,Umbi kentang: (Perendaman : 1 gram/200 ml)
+417,Kacang Kedelai
+418,Kayap gergajian
+419,Produk ini didaftarkan untuk keperluan ekspor dan tidak didaftarkan untuk keperluan dalam negeri.
+420,Tanaman Eucalyptus
+421,DENSIL DF ANTIMICROBIAL
+422,Persiapan tanaman padi sawah (TOT)
+423,Budidaya jagung (TOT) :
+424,Jeruk Siam
+425,Budidaya padi sawah tabela:
+426,Budidaya tanaman jagung (purna tumbuh)
+427,Budidaya tanaman jagung (pra tumbuh)
+428,Pondasi bangunan/tanah bangunan
+429,Kayu lapis
+430,Jagung dalam penyimpanan
+431,Tepung terigu dalam penyimpanan
+432,Budidaya ubi kayu
+433,Tambak udang dan ikan bandeng
+434,Durian
+435,Alpukat
+436,"Budidaya Padi Sawah Tapin (Tanam Pindah) (2,5 - 3 l/ha)"
+437,Teh (TBM)
+438,Tanaman Karet
+439,Tetap ulang bahan teknis
+440,Persiapan lahan budidaya padi (TOT)
+441,Akasia lahan gambut
+442,Hutan tanaman industri Eucalytus pellita:
+443,ACTICIDE DB 20
+444,Tikus pohon
+445,Tanaman ekaliptus
+446,Acacia
+447,Tomat (1 ml/l)
+448,Bawang Merah (1 ml/l)
+449,Kubis (1 ml/l)
+450,Cabai (1 ml/l)
+451,ACTICIDE CF
+452,"Karet (TBM) (1,5 - 2,5 l/ha)"
+453,Kelapa Sawit (TBM) (1 - 3 l/ha)
+454,"Ubi Kayu (1,5 - 2 l/ha)"
+455,"Teh (1,5 - 3 l/ha)"
+456,Budibaya padi sawah tapin
+457,Produk Ekspor
+458,Karet (TBM): (2 - 4 l/ha)
+459,"Kelapa sawit (TBM): (2,25 - 3 l/ha)"
+460,Budidaya tanaman akasia
+461,Budidaya tanaman minyak kayu putih (Eucalyptus)
+462,Beras di penyimpanan :
+463,"Kelapa sawit (2,5 ml/l)"
+464,Jagung (10 ml/kg)
+465,Kacang hijau (3 ml/l )
+466,Kakao (1 ml/l )
+467,Padi (2 ml/l)
+468,Bawang
+469,Budiday padi
+470,Kedelai :
+471,Beras di peyimpanan
+472,Budidaya kelapa sawit
+473,Proxel CMC Preservative
+474,Di dalam dan luar ruangan
+475,Kedelai:
+476,Padi gogo (TOT)
+477,Padi sawah (tabela) :
+478,Padi sawah (tapin) :
+479,Izin Ekspor
+480,Hutan tanaman industri akasia (30 - 50 g/ha )
+481,Kelapa sawit (TBM) (30 - 50 g/ha )
+482,Keperluan Ekspor
+483,Budidaya kopi (TBM):
+484,"Padi (0,1375 ml/l)"
+485,"Bawang Merah (0,3 ml/l)"
+486,"Kentang (0,2 ml/l)"
+487,"Jagung (0,5 ml/l)"
+488,"Kelapa sawit (TBM) (1,5 - 2,5 l/ha)"
+489,"Persiapan lahan jagung tanpa olah tanah (1 - 1,25 l/ha)"
+490,Kubis Bunga
+491,Hutan Tanaman Industri Akasia
+492,Persiapan lahan budidaya kedelai TOT
+493,Bungkil kelapa sawit
+494,Deltametrin 5 TC
+495,"Bawang (2,25 ml/l)"
+496,"Padi (0,75 ml/l)"
+497,Budidaya padi sawah tapin:
+498,Kelapa sawit (TM) :
+499,Tanaman hutan tanaman industri
+500,Kelapa Sawit ( TBM )
+501,"Cabai (0,5 ml/l)"
+502,"Padi (187,5 ml/ha)"
+503,"Semangka (1,5 ml/l )"
+504,"Kacang panjang (1,5 ml/l )"
+505,ACTICIDE IFL 3
+506,ACTICIDE NC
+507,Budidaya Karet (TBM) (1 - 2 l/ha)
+508,Budidaya Kelapa sawit (TBM) (2 - 3 l/ha)
+509,Kakao (TBM) (2-4 l/ha)
+510,Budidaya karet
+511,Budidaya padi sawah tapin (Tanam pindah)
+512,Beras (Karantina dan Pra-pengapalan (QPS)):
+513,Untuk Ekspor
+514,Kelapa Sawit (TM):
+515,Kepala Sawit
+516,Kentang (20 kg/ha)
+517,"Jagung (7,5 kg/ha)"
+518,Tebu (25 kg/ha)
+519,Padi (10 kg/ha)
+520,Bawang merah (15 kg/ha)
+521,Tikus Ladang
+522,Padi (4 ml/l )
+523,Kedelai (2 ml/l )
+524,Jagung (4 ml/l )
+525,Cabai (4 ml/l )
+526,Beras di penyimpanan:
+527,Tanaman Padi
+528,Bibit kacang tanah
+529,Di luar rumah
+530,"Bawang Merah (1,125 ml/l)"
+531,"Kubis (1,5 ml/l)"
+532,Tembakau (2 ml/l)
+533,"Semangka (1,5 ml/l)"
+534,Cabai (3 ml/l)
+535,Tebu (2 ml/l)
+536,Tomat (2 ml/l)
+537,Kacang Hijau (2 ml/l)
+538,Jeruk (1 ml/l)
+539,Persiapan lahan budidaya padi sawah (olah tanah minimum)
+540,Lahan tanpa tanaman :
+541,Hutan Tanaman Industri (HTI) Acacia mangium
+542,Pembibitan Tanaman Cengkeh
+543,Tebu di Lahan Kering
+544,Budidaya padi sawah (tapin):
+545,Budidaya padi sawah tanam pindah
+546,Area peternakan ayam:
+547,Kakao (TM):
+548,Lada (1 g/l)
+549,Semangka (1 g/l)
+550,"Padi (1,5 g/l)"
+551,"Budidaya padi sawah Tabela (pre-emergence, early post emergence):"
+552,"Budidaya padi sawah Tapin (pre-emergence, early post emergence)"
+553,Budidaya padi sawah Tabela (Pre‑Plant Incorporated (PPI))
+554,Budidaya padi sawah Tapin (Pre‑Plant Incorporated (PPI))
+555,Budidaya karet (TM):
+556,Persiapan lahan untuk budidaya Kelapa sawit (TBM
+557,Budidaya padi sawah tanam benih langsung (tabela):
+558,Karantina dan Pra pengapalan:
+559,Pala
+560,ACTICIDE LA 1209
+561,Budidaya kelapa sawit (TM) :
+562,Budidaya Tanaman HTI Eucalyptus sp.
+563,Bawang merah (3 ml/l)
+564,Budidaya Tanaman Eucalyptus
+565,Padi sawah tanam pindah :
+566,Budidaya tanaman eukaliptus
+567,"Melon (175 ml/ha/aplikasi (pada 5 HST, 25 HST dan 45 HST)"
+568,"Bawang Merah (0,25 ml/l)"
+569,"Padi Sawah (0,12 ml/l)"
+570,Mentimun (125 - 250 ml/ha )
+571,Persiapan lahan padi sawah pasang surut (TOT)
+572,Mangga (2 ml/l )
+573,Kakao (2 ml/l )
+574,Karet (2 ml/l )
+575,Teh (2 ml/l )
+576,Sawi (2 ml/l )
+577,Tembakau (2 ml/l )
+578,"Kentang (1,5 ml/l )"
+579,"Pembibitan kelapa sawit (1,5 ml/l )"
+580,"Bawang merah (1,5 ml/l )"
+581,Budidaya padi:
+582,Larva nyamuk
+583,Karet (TM):
+584,Hutan tanaman industri Eucalyptus pellita
+585,"Padi Sawah (0,75 g/10 L air )"
+586,"Bawang merah (0,75 g/10 L air (5,6,7 MST))"
+587,Melon :
+588,Zinc Omadine 48 FPS
+589,Persiapan Lahan Padi Sawah (TOT)
+590,Hutan Tanaman Industri (Acacia mangium)
+591,Persiapan Lahan Padi Pasang Surut (TOT)
+592,ACTICIDE DW
+593,Budidaya Tanaman (HTI) Eukaliptus
+594,--
+595,Bahan Pakan Ternak (Corn mill)
+596,Proxel GXL
+597,ACTICIDE BW 20
+598,Budidaya Teh (TM)
+599,Persiapan lahan budidaya kelapa sawit
+600,Budidaya padi sawah tanpa olah tanah (TOT)
+601,Budidaya padi pasang surut tanpa olah tanah (TOT)
+602,Buncis
+603,Bawang Meraah
+604,Budidaya tebu tanam baru (plant cane)
+605,Budidaya tebu keprasan (ratooncane)
+606,Padi (2 g/l)
+607,Budidaya Hutan Tanaman Industri Eucalyptus sp.
+608,Pembibitan Kakao
+609,Penyiapan lahan budidaya padi sawah (TOT)
+610,Persiapan Tanam Jagung (TOT)
+611,Hutan tanaman industri Accacia mangium
+612,Budidaya kopi ( TBM )
+613,Kedelai (1 ml/l)
+614,Budidaya padi sawah lahan rawa (TOT)
+615,"Kakao (0,75 ml/l )"
+616,Cabai (700 ml/ha )
+617,Bawang merah (700 ml/ha )
+618,Budidaya Padi Tapin (Tanam Pindah)
+619,"Bawang Merah (Meningkatkan jumlah daun, hasil tanaman, hasil/petak, hasil/ha)"
+620,Untuk pendaftaran ekspor
+621,Budidaya kelapa sawit (TBM )
+622,Tembakau di penyimpanan
+623,Budidaya jagung :
+624,Persiapan Lahan Budidaya Padi Gogo (TOT)
+625,Persiapan tanam budidaya kedelai (TOT)
+626,Pembibitan Cabai
+627,Persiapan lahan perkebunan
+628,Budidaya padi sawah Tanpa Olah Tanah (TOT):
+629,Pembibitan teh
+630,Padi sawah tanam benih langsung (tabela):
+631,Hutan Tanaman industri Eucalyptus sp.
+632,Mangga (TM)
+633,Singkong
+634,Apel (TM)
+635,Peternakan ayam
+636,Timun
+637,Anggur :
+638,Tepung di penyimpanan
+639,Jagung :
+640,Nyamuk di dalam dan di luar ruangan
+641,Jagung (TOT):
+642,Kakao (TBM):
+643,Budidaya cabai :
+644,"Kakao (0,25 ml/l)"
+645,"Bawang merah (2,25 ml/l)"
+646,"Padi (2,25 ml/l)"
+647,Jagung (TOT) :
+648,Kedelai (TOT) :
+649,Kandang ternak:
+650,Persiapan tanam padi gogo (TOT)
+651,Persemaian kelapa sawit
+652,Penyiapan lahan budidaya Jagung TOT (tanpa olah tanah)
+653,Tebu :
+654,Karet (TBM) :
+655,Persiapan Lahan Budidaya Padi Pasang Surut (TOT)
+656,Penyiapan lahan budidaya Padi gogo (TOT)
+657,Kentang (TOT)
+658,Padi pasang surut (TOT)
+659,Penyiapan lahan budidaya jagung (TOT)
+660,Kepala sawit (TBM)
+661,Persiapan lahan perebunan
+662,Kelapa sawit tua (150 ml/l solar)
+663,Padi sawah pasang surut
+664,Budidaya padi sawah (Tapin) :
+665,ACTICIDE RS
+666,NA (Kebutuhan Ekspor)
+667,Kecoak
+668,Budidaya Padi Sawah Tabur Benih Langsung
+669,"Kentang (1,5 ml/l)"
+670,"Krisan (1,5 ml/l)"
+671,Teh di persemaian
+672,Tambakau di penyimpanan
+673,Kacang hijau:
+674,Persiapan lahan tanaman perkebunan
+675,Tebu keprasan (Ratooncane)
+676,Tebu tanam (Plantcane)
+677,Umum
+678,Bibit kelapa sawit
+679,Manggis
+680,Budidaya padi sawah (TOT):
+681,T.A.D
+682,Penyiapan lahan budidaya padi sawah pasang surut (TOT)
+683,"Tomat (0,6 g/l)"
+684,"Cabai (0,6 g/l)"
+685,Apel :
+686,Teh :
+687,Kakao :
+688,Kopi :
+689,Kelapa Sawit :
+690,Jeruk :
+691,Budidaya padi sawah tanan pindah (tapin):
+692,Dinding ruangan
+693,Lapangan Golf
+694,Budidaya kelapa
+695,Kembang kol
+696,"Budidaya Jagung (pra tumbuh) (1,5 - 2 l/ha )"
+697,"Budidaya Jagung (purna tumbuh) (1,5 - 2 l/ha )"
+698,Padi sawah ( TOT )
+699,"Karet (TBM) (1,5 - 2 l/ha )"
+700,"Karet (TBM) (0,375-0,5 l/ha )"
+701,"Kelapa Sawit (1,5 - 2 l/ha)"
+702,Jagung (20 ml/kg benih)
+703,Cabai merah (4 ml/l)
+704,Ubi jalar :
+705,Budidaya persemaian kelapa sawit
+706,Budidaya tanaman padi sawah tanam pindah:
+707,Cabai (4 g/l)
+708,Kentang (3 g/l)
+709,Bawang merah (3 g/l)
+710,Tambak udang
+711,D dalam ruangan dan di luar ruangan :
+712,Di luar ruangan :
+713,di dalam ruangan dan di luar ruagan :
+714,Kandang ternak :
+715,Pembibitan cengkeh
+716,ACTICIDE HF
+717,Budidaya singkong
+718,Budidaya padi sawah :
+719,Bawang merah :
+720,Penyimpanan hasil pertanian
+721,Budidaya Kacang hijau
+722,Proxel MB
+723,Budidaya kacang tanah
+724,Budidaya cabai
+725,ACTICIDE CB
+726,Budidaya tebu :
+727,Eukaliptus
+728,diluar ruangan
+729,Tetap ulang ekspor
+730,"Pemukiman, Bangunan & Rumah Tangga"
+731,Padi sawah tanam benih langsung (TABELA) purna-tumbuh
+732,Padi sawah tanam benih langsung (TABELA) pra tumbuh
+733,TANAMAN CABAI
+734,Di dalam dan luar ruangan :
+735,Budidaya tebu lahan kering
+736,Rumput lapangan golf
